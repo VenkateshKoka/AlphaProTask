@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import {useState, useEffect, useRef} from 'react';
 import { useSearchParams } from 'next/navigation';
 import StreamingText from "@/components/streamingtext";
 
@@ -9,17 +9,27 @@ export default function EventPage({params}) {
     const eventTitle = useSearchParams().get('title');
     const [transcriptLines, setTranscriptLines] = useState([]);
 
+    // Reference to track the mounted state of the component
+    const isMountedRef = useRef(false);
+
     useEffect(() => {
+
+        isMountedRef.current = true;
         const fetchTranscriptLines = async () => {
             let currentLineNumber = 1;
             const intervalId = setInterval(async () => {
-                const response = await fetch(`/api/fetchLineInEvent/?eventId=${eventId}&counter=${currentLineNumber}`, {
-                    method : 'GET'
-                });
-                if (response.ok) {
-                    const lineData = await response.json();
-                    setTranscriptLines(prevLines => [...prevLines, lineData.t]);
-                    currentLineNumber++;
+                if(isMountedRef.current) {
+                    const response = await fetch(`/api/fetchLineInEvent/?eventId=${eventId}&counter=${currentLineNumber}`, {
+                        method: 'GET'
+                    });
+
+                    if (response.ok) {
+                        const lineData = await response.json();
+                        setTranscriptLines(prevLines => [...prevLines, lineData.t]);
+                        currentLineNumber++;
+                    } else {
+                        clearInterval(intervalId);
+                    }
                 } else {
                     clearInterval(intervalId);
                 }
@@ -30,7 +40,9 @@ export default function EventPage({params}) {
 
         fetchTranscriptLines();
 
-        }, []); // Re-run effect when eventId changes
+        return () => { isMountedRef.current = false };
+
+        }, []);
 
     return (
         <div className="container ml-auto mr-auto mt-4">
