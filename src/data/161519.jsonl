@@ -1,0 +1,978 @@
+{"type":"start","processing_start_time":"2024-04-24T14:55:37Z","audio_url":null,"file_format_version":"1.5"}
+{"s":308.7,"e":313.49,"p":"0","S":"0","t":"Good day, and welcome to the Steel Dynamics First Quarter 2024 Earnings Conference Call.","counter":1}
+{"s":314.21,"e":316.95,"p":"0","S":"0","t":"At this time, all participants are in a listen only mode.","counter":2}
+{"s":317.51,"e":322.79,"p":"0","S":"0","t":"After management's remarks, we'll conduct a question and answer session and instructions will follow at that time.","counter":3}
+{"s":323.51,"e":331.13,"p":"0","S":"0","t":"Please be advised this call is being recorded today April 24, 2024, your participation implies consent to our recording of this call.","counter":4}
+{"s":331.85,"e":340.17,"p":"0","S":"0","t":"If you do not agree to these terms, At this time, I'd like to turn the conference over to David Lipschitz, Director, Investor Relations.","counter":5}
+{"s":340.38,"e":341.33,"p":"0","S":"0","t":"Please go ahead.","counter":6}
+{"s":342.13,"e":343.11,"p":"0","S":"0","t":"Thank you, Matthew.","counter":7}
+{"s":343.49,"e":347.75,"p":"1","S":"1","t":"Good morning, and welcome to Steel Dynamics' Q1 2024 earnings conference call.","counter":8}
+{"s":348.08,"e":353.11,"p":"1","S":"1","t":"As a reminder, today's call is being recorded and will be available on our website for replay later today.","counter":9}
+{"s":353.54,"e":364.8,"p":"1","S":"1","t":"Leading today's call are Mark Millett, Chairman and Chief Executive Officer of Steel Dynamics Theresa Wagler, Executive Vice President and Chief Financial Officer, Barry Schneider, President and Chief Operating Officer.","counter":10}
+{"s":364.88,"e":368.02,"p":"1","S":"1","t":"The other members of our senior leadership team are joining us on the call individually.","counter":11}
+{"s":368.68,"e":373.54,"p":"1","S":"1","t":"Some of today's statements, which speak only as of this date, may be forward looking and predictive.","counter":12}
+{"s":373.78,"e":377.56,"p":"1","S":"1","t":"Typically preceded by believe, expect, anticipate or words of similar meaning.","counter":13}
+{"s":378.18,"e":384.47,"p":"1","S":"1","t":"Are intended to be protected by the Private Securities Litigation Reform Act of 1995 should actual results turn out differently.","counter":14}
+{"s":384.94,"e":399.68,"p":"1","S":"1","t":"Such statements involve risks and uncertainties related to integrating or starting up new assets, the aluminum industry, use of estimates and assumptions in connection with anticipated project returns in our steel, metal recycling and fabrication businesses, as well as to general business and economic conditions.","counter":15}
+{"s":399.68,"e":415.6,"p":"1","S":"1","t":"[indiscernible] Examples of these are described in the related press release as well as in our annually filed SEC 10 ks under the heading Forward Looking Statements and Risk Factors found on the Internet at www.sec.gov and if applicable in any later SEC Form 10 Q.","counter":16}
+{"s":415.76,"e":426.06,"p":"2","S":"1","t":"You'll also find any reference non GAAP financial measures reconciled to the most directly comparable GAAP measures in the press release issued yesterday entitled Steel Dynamics Reports 2024 results.","counter":17}
+{"s":426.32,"e":427.96,"p":"2","S":"1","t":"Now I'm pleased to turn the call over to Mark.","counter":18}
+{"s":429.86,"e":430.66,"p":"2","S":"1","t":"Thanks, David.","counter":19}
+{"s":430.66,"e":431.64,"p":"2","S":"1","t":"Good morning, everybody.","counter":20}
+{"s":431.78,"e":435.83,"p":"2","S":"2","t":"It's good to be with you for Q1 'twenty 4 earnings call today.","counter":21}
+{"s":436.72,"e":442.17,"p":"2","S":"2","t":"Once again, our teams achieved a strong 1st quarter financial and operational performance.","counter":22}
+{"s":442.86,"e":446.32,"p":"2","S":"2","t":"Volley steel shipments were near record 3,300,000 tons.","counter":23}
+{"s":446.88,"e":464.9,"p":"2","S":"2","t":"The team successfully began operating our 4 new value added flat roll steel coating lines which adds about 1,100,000 tons of higher margin product diversification [indiscernible] The Syntom team continues to make significant headway hitting record milestones and achieving positive EBITDA for the quarter.","counter":24}
+{"s":465.22,"e":467.31,"p":"2","S":"2","t":"With significant improvements on the way.","counter":25}
+{"s":467.79,"e":472.15,"p":"2","S":"2","t":"And we're also making fast progress on our aluminum flat roll investments.","counter":26}
+{"s":472.17,"e":481.53,"p":"2","S":"2","t":"[indiscernible] There continues to be strong commercial support a new and innovative supply chain solution provided by Steel Dynamics.","counter":27}
+{"s":482.09,"e":484.75,"p":"2","S":"2","t":"As we're a well known and highly regarded metals producer.","counter":28}
+{"s":486.2,"e":488.7,"p":"2","S":"2","t":"And financially, the team continues to excel.","counter":29}
+{"s":489.12,"e":494.57,"p":"2","S":"2","t":"They consistently achieved superior financial metrics and best in class return on invested capital.","counter":30}
+{"s":495.32,"e":501.5,"p":"2","S":"2","t":"The product of the passionate can do performance driven culture and our high margin value added growth strategy.","counter":31}
+{"s":502.3,"e":509.14,"p":"3","S":"2","t":"A stark and persuasive indicator of the effectiveness of our business model our relative EBITDA per employee generation.","counter":32}
+{"s":510.04,"e":512.14,"p":"3","S":"2","t":"Which is substantially higher than any of our competition.","counter":33}
+{"s":513.14,"e":518.21,"p":"3","S":"2","t":"I'm incredibly proud of the Steel Dynamics team They are the foundation of our company and they drive our success.","counter":34}
+{"s":518.49,"e":520.02,"p":"3","S":"2","t":"And I'm proud to stand among them.","counter":35}
+{"s":521.25,"e":525.43,"p":"3","S":"2","t":"They are special and we're focused on providing the very best for their health, safety and welfare.","counter":36}
+{"s":526.14,"e":528.78,"p":"3","S":"2","t":"We're actively engaged in safety at all times.","counter":37}
+{"s":529.02,"e":534.89,"p":"3","S":"2","t":"At every level of our company keeping safety top of mind and an active conversation each and every day.","counter":38}
+{"s":536.01,"e":540.63,"p":"3","S":"2","t":"Despite excellent safety performance compared to industry peers, there's more to do.","counter":39}
+{"s":540.63,"e":544.3,"p":"3","S":"2","t":"We will not rest until we consistently achieve our goal of 0 injury.","counter":40}
+{"s":544.3,"e":549.48,"p":"3","S":"2","t":"[indiscernible] With that, Teresa, would you like to give us some color on the quarter?","counter":41}
+{"s":550.4,"e":551.12,"p":"4","S":"1","t":"Thanks, Mark.","counter":42}
+{"s":551.12,"e":552.16,"p":"4","S":"1","t":"Good morning, everyone.","counter":43}
+{"s":552.16,"e":553.3,"p":"4","S":"1","t":"Thanks for joining us.","counter":44}
+{"s":553.98,"e":557.2,"p":"4","S":"1","t":"I add my sincere thanks to our teams for another strong performance.","counter":45}
+{"s":557.82,"e":582.08,"p":"4","S":"3","t":"[indiscernible] $84,000,000 or $3.67 per diluted share with adjusted EBITDA of $879,000,000 Q1 2024 revenue of 4,700,000,000 dollars was 11% higher than sequential 4th quarter results supported by strong volume and higher realized selling values across the steel platform.","counter":46}
+{"s":582.48,"e":594,"p":"4","S":"3","t":"Our first quarter operating income of $751,000,000 was 45% higher than 4th quarter results driven by steel metal spread expansion, especially within our flat rolled operations.","counter":47}
+{"s":594.88,"e":603.31,"p":"4","S":"3","t":"A quick note, as we construct the aluminum start up.","counter":48}
+{"s":603.31,"e":609.08,"p":"4","S":"3","t":"So you will see increased costs in that line item as we start operations mid-twenty 25.","counter":49}
+{"s":609.65,"e":628.37,"p":"4","S":"3","t":"In the Q1, that additional amount was about $14,000,000 As we discuss our business this morning, we see positive industry fundamentals [indiscernible] Steel division operated close to 70% of capacity for the quarter.","counter":50}
+{"s":628.37,"e":631.09,"p":"4","S":"3","t":"And as Mark said, generated positive earnings.","counter":51}
+{"s":631.65,"e":641.32,"p":"4","S":"3","t":"Our steel operations generated strong operating income of $75,000,000 in the Q1, supported by near record shipments and increased realized product pricing.","counter":52}
+{"s":641.73,"e":658.31,"p":"4","S":"3","t":"For those of you who track flat rolled products by type, in the Q1 hot rolled shipments were 1,060 [indiscernible] cold rolled shipments were 130,000 tons, and coated shipments were 1,220,000 tons.","counter":53}
+{"s":659.43,"e":670.24,"p":"5","S":"3","t":"Operating income from our Melds recycling operations was 23,000,000 significantly higher than sequential 4th quarter results as increased domestic steel demand supported higher volume.","counter":54}
+{"s":670.24,"e":679.06,"p":"5","S":"3","t":"As many of you already know, we're the largest North American metals recycler processing and consuming ferrous scrap and non ferrous aluminum, copper and other metals.","counter":55}
+{"s":679.46,"e":690.35,"p":"5","S":"3","t":"The team continues to effectively lever the strength of our recycling operations as well as shortly our aluminum flat rolled operations.","counter":56}
+{"s":691.5,"e":703.31,"p":"5","S":"3","t":"Our steel fabrication segment achieved strong operating income of $178,000,000 in the first quarter, Lower than sequential 4th quarter results due to weather impacted and seasonal and lower shipments.","counter":57}
+{"s":703.86,"e":709.29,"p":"5","S":"3","t":"And metal spread compression as realized pricing declined and steel raw material input cost increased.","counter":58}
+{"s":710.04,"e":714.54,"p":"5","S":"3","t":"Joist syndicate backlog extends to the Q3 2024 with strong forward pricing.","counter":59}
+{"s":715.21,"e":719.31,"p":"5","S":"3","t":"And pricing has stabilized at historically strong levels during the quarter.","counter":60}
+{"s":720.27,"e":741.51,"p":"5","S":"3","t":"Inflation Reduction Act and DOE Decarbonization Support [indiscernible] later this year and into next year, which will support our steel operations and our Our cash generation continues to be strong based on our circular business model and highly variable cost structure.","counter":61}
+{"s":742.26,"e":774.8,"p":"5","S":"3","t":"During the Q1 of 2024, we generated cash flow from operations of $355,000,000 which was reduced by an annual companywide profit sharing contribution of $265,000,000 ended the quarter with strong liquidity of $3,100,000,000 For 2024, we believe full year capital investments will be in the range of $2,000,000,000 of which approximately $1,400,000,000 relates to our aluminum flat rolled investments and $175,000,000 toward our biocarbon facility.","counter":62}
+{"s":775.84,"e":789.94,"p":"6","S":"3","t":"In February, we increased our cash dividend 8% to $0.46 per common share, continuing our increasing dividend profile also repurchased $298,000,000 of our common stock.","counter":63}
+{"s":790.91,"e":793.36,"p":"6","S":"3","t":"Representing 1.5 percent of our outstanding shares.","counter":64}
+{"s":793.81,"e":814.16,"p":"6","S":"3","t":"At March 31, dollars 1,100,000,000 remained available for our share repurchase Our capital allocation strategy prioritizes high return strategic growth with shareholder distributions comprised of a base positive dividend profile that's complemented with a variable share repurchase program.","counter":65}
+{"s":814.56,"e":823.51,"p":"6","S":"3","t":"While we remain dedicated to preserving our investment grade credit designation, Our free cash flow profile has fundamentally changed over the last 5 years.","counter":66}
+{"s":825.02,"e":846.98,"p":"6","S":"3","t":"From an annual average of $540,000,000 [indiscernible] We've strategically placed ourselves in a position of strength to have a sustainable capital foundation that provides the opportunity for meaningful strategic growth and strong shareholder returns while maintaining investment grade metrics.","counter":67}
+{"s":847.45,"e":857.69,"p":"6","S":"3","t":"We believe our track record proves itself with an average 3 year after tax clearly a best in class performance across industries.","counter":68}
+{"s":858.17,"e":872.29,"p":"6","S":"3","t":"We're squarely positioned for the continuation of sustainable op Sustainability is also a significant part of our long term value creation strategy and we're dedicated to our people, our communities and our environment.","counter":69}
+{"s":872.83,"e":875.89,"p":"6","S":"3","t":"We're committed to operating our business with the highest integrity.","counter":70}
+{"s":876.9,"e":884.26,"p":"6","S":"3","t":"That regard, we remain excited about our joint venture with Aymium a leading producer of renewable biocarbon products.","counter":71}
+{"s":884.58,"e":905.45,"p":"7","S":"3","t":"We believe our 1st joint venture facility, which we plan to start operating late in 4th quarter, could decrease our SteelScope 1 greenhouse gas emissions by as much as 30 5% have an actionable path toward carbon neutrality that is more manageable and we believe can considerably less expensive than may lay ahead for many of our industry peers.","counter":72}
+{"s":905.99,"e":913.12,"p":"7","S":"3","t":"Our sustainability and carbon reduction strategy is an ongoing journey and we're moving forward with the intention to make a positive difference.","counter":73}
+{"s":913.26,"e":919.8,"p":"7","S":"3","t":"We We plan to continue to address these matters and continue our leadership role moving forward.","counter":74}
+{"s":920.02,"e":923.82,"p":"7","S":"2","t":"[indiscernible] Thanks, Teresa.","counter":75}
+{"s":924.88,"e":928.18,"p":"8","S":"1","t":"Our steel fabrication operations performed well in the Q1.","counter":76}
+{"s":928.98,"e":929.73,"p":"8","S":"1","t":"Achieving strong earnings.","counter":77}
+{"s":930.05,"e":936.35,"p":"8","S":"1","t":"At the end of the Q1, our steel joist and deck order backlog was solid, extending through the Q3 of 2024.","counter":78}
+{"s":936.92,"e":944.98,"p":"8","S":"2","t":"Additionally, current pricing has stabilized at historically high levels during the 1st [indiscernible] Continue to have high expectations for the business.","counter":79}
+{"s":945.62,"e":957.34,"p":"9","S":"2","t":"Continued onshoring of manufacturing coupled with infrastructure spending and fixed asset investment related should provide momentum for additional construction spending later this year and through 2025.","counter":80}
+{"s":958.53,"e":962.31,"p":"10","S":"4","t":"Our fabrication platform provides meaningful volume support for our steel mills.","counter":81}
+{"s":962.63,"e":964.65,"p":"10","S":"4","t":"Critical and softer demand environments.","counter":82}
+{"s":964.89,"e":972.86,"p":"10","S":"4","t":"Allowing for higher through cycle steel utilization It also helps mitigate the financial risk of lower steel prices.","counter":83}
+{"s":973.58,"e":988.38,"p":"10","S":"4","t":"Our metals recycling operations improved earnings in the 1st quarter, as increased demand from North American steel producers supported higher ferrous scrap volume and the team continues to grow our volume in recycled aluminum in advance of starting our new aluminum flat rolled operations.","counter":84}
+{"s":988.78,"e":997.61,"p":"10","S":"4","t":"The North American geographic footprint of our metals recycling platform provides a strategic competitive advantage for our steel mills and for our scrap generating customers.","counter":85}
+{"s":998.16,"e":1004.51,"p":"10","S":"4","t":"In particular, our Mexican recycling operations competitively advantaged our Columbus and Sinton raw material positions.","counter":86}
+{"s":1005.01,"e":1022.56,"p":"10","S":"4","t":"They also strategically support increased procurement of aluminum scrap Our metals recycling team is partnering even more closely with both our steel and aluminum teams to expand scrap separation capabilities through process and technology solutions.","counter":87}
+{"s":1023.03,"e":1026.65,"p":"10","S":"4","t":"Will help mitigate potential prime ferrous scrap supply issues in the future.","counter":88}
+{"s":1026.95,"e":1036.82,"p":"10","S":"4","t":"We'll also provide us with a significant advantage to materially increase recycled content our aluminum flat roll products and increase our earnings opportunities.","counter":89}
+{"s":1038.02,"e":1042.75,"p":"10","S":"4","t":"The steel team had a strong quarter achieving near record shipments of 3 300,000 tons.","counter":90}
+{"s":1043.54,"e":1050.29,"p":"11","S":"4","t":"During the Q1 of 2024, the domestic steel industry operated at an estimated production utilization rate of 77%.","counter":91}
+{"s":1050.98,"e":1066.78,"p":"11","S":"4","t":"While our steel mills operated at 87%, We consistently operated higher utilization rates due to our value added steel product diversification Our differentiated customer supply chain solutions the support of our internal manufacturing businesses.","counter":92}
+{"s":1067.42,"e":1077.79,"p":"11","S":"4","t":"The higher through cycle utilization of our steel mills is a key competitive advantage supporting our strong and growing cash generation capability and best in class financial metrics.","counter":93}
+{"s":1078.11,"e":1081.25,"p":"11","S":"4","t":"Our realized steel pricing improved across our product portfolios.","counter":94}
+{"s":1082.55,"e":1087.42,"p":"11","S":"4","t":"However, spot weld prices weakened early in the Q1 before recovering in March April.","counter":95}
+{"s":1088.22,"e":1093.84,"p":"11","S":"4","t":"Value add flat roll steel pricing spreads are incredibly resilient actually expanding during the same timeframe.","counter":96}
+{"s":1094.56,"e":1109.5,"p":"11","S":"4","t":"Underlying demand remains steady The customers are managing to a lower inventory level, which can cause some volatility in prices As order activity increased quarter over quarter, our steel backlogs also improved nicely from December to March across the platform.","counter":97}
+{"s":1111.55,"e":1116.01,"p":"11","S":"4","t":"As per Centin, the team continues to make significant improvements in operating efficiency and consistently.","counter":98}
+{"s":1116.63,"e":1117.13,"p":"11","S":"4","t":"Consistency.","counter":99}
+{"s":1117.51,"e":1123.58,"p":"11","S":"4","t":"They averaged around 70% of capability for the quarter breaking monthly utilization records across the lines in March.","counter":100}
+{"s":1124.06,"e":1129.39,"p":"11","S":"4","t":"We are planning for Sun to see additional improvements in production as the team took several maintenance days in April.","counter":101}
+{"s":1130.21,"e":1141.14,"p":"12","S":"4","t":"Among other things, in the outage, we resolved certain transformer limitations will allow us to access 100% of our melting capacity versus the previous 80%.","counter":102}
+{"s":1141.54,"e":1149.46,"p":"12","S":"4","t":"Also, the additional 2 new value added coating lines were successfully commissioned have commenced operations with excellent results.","counter":103}
+{"s":1149.62,"e":1153.56,"p":"12","S":"4","t":"These additional lines will support increased volume and margins as we head through this year.","counter":104}
+{"s":1154.92,"e":1174.64,"p":"12","S":"4","t":"Regarding the steel market environment, North American automotive production estimates for 2024 were were recently revised higher to just over 16,000,000 units, continued growth expected in 20252026, [indiscernible] [indiscernible] is based on demand resilience and stronger production results.","counter":105}
+{"s":1175.46,"e":1180.95,"p":"12","S":"4","t":"[indiscernible] supply chain constraints continue to dissipate across the automotive supply chain.","counter":106}
+{"s":1181.27,"e":1185.64,"p":"12","S":"4","t":"Automotive dealer inventories are also continuing to remain below historical norms.","counter":107}
+{"s":1186.76,"e":1205.42,"p":"12","S":"4","t":"Nonresidential construction remains solid as supported by the increased sequentially quarterly order activity and shipments in our Structural and Rail division, Additionally, onshoring and infrastructure spending should provide further meaningful support to fixed asset investment and related construction oriented projects in the coming years.","counter":108}
+{"s":1205.9,"e":1209.04,"p":"12","S":"4","t":"As for the energy markets, the solar industry continues to grow.","counter":109}
+{"s":1209.1,"e":1219.04,"p":"12","S":"4","t":"And oil and gas activity is steady However, increasing OCTG and line pipe imports created a challenging Q1 environment for the domestic producer.","counter":110}
+{"s":1219.76,"e":1224.5,"p":"12","S":"4","t":"Looking forward, we are optimistic regarding steel demand and pricing demands for 2024.","counter":111}
+{"s":1227.57,"e":1228.13,"p":"13","S":"2","t":"Thanks, Barry.","counter":112}
+{"s":1228.13,"e":1229.03,"p":"13","S":"2","t":"Thanks, Teresa.","counter":113}
+{"s":1230.15,"e":1238.45,"p":"13","S":"2","t":"Well, a consistently strong three cycle operating and financial our cash generation and growth investment strategies.","counter":114}
+{"s":1239.34,"e":1245.6,"p":"13","S":"2","t":"As mentioned, the 4 value add flat roll steel coating lines are now online and in various modes of startup.","counter":115}
+{"s":1245.69,"e":1251.02,"p":"13","S":"2","t":"[indiscernible] the line in Sinton was an absolute unqualified success.","counter":116}
+{"s":1251.32,"e":1253.17,"p":"13","S":"2","t":"The team has done a phenomenal job there.","counter":117}
+{"s":1253.9,"e":1266.04,"p":"13","S":"2","t":"[indiscernible] Synod should see a step function improvement in operations and profitability as those two new lines ramp up after the April maintenance, which occurred actually 2 weeks ago.","counter":118}
+{"s":1266.04,"e":1268.42,"p":"13","S":"2","t":"And it's they're up and running again.","counter":119}
+{"s":1269.56,"e":1278.61,"p":"13","S":"2","t":"The aluminum strategy, our growth is especially compelling Responses from existing and new customers across all markets remains incredible.","counter":120}
+{"s":1279.5,"e":1281.39,"p":"13","S":"2","t":"And only strengthening as we move forward.","counter":121}
+{"type":"sentiment","counter":2,"sentiment":"negative"}
+{"type":"sentiment","counter":3,"sentiment":"negative"}
+{"s":1281.95,"e":1292.67,"p":"13","S":"2","t":"We are currently in discussions with numerous customers who wish to locate on-site with us its colocation strategy, provides a sustainably competitive model for all of us.","counter":122}
+{"s":1292.83,"e":1296.61,"p":"13","S":"2","t":"Conserving time, money and reducing emissions across the supply chain.","counter":123}
+{"s":1296.88,"e":1300.9,"p":"13","S":"2","t":"And this model has already proven itself tremendously successful in symptom.","counter":124}
+{"s":1304.56,"e":1325.04,"p":"13","S":"2","t":"And to just sort of review, it the project itself, 650,000 metric tons of aluminum flat roll capability, in Columbus, Mississippi, state of the art plan it has served the sustainable beverage and packaging, sector, automotive and industrial markets as well.","counter":125}
+{"s":1325.81,"e":1336.05,"p":"14","S":"2","t":"Roughly 300,000 metric tons a year of Canstock, about 200,000 tons of auto and 150,000 tons of industrial and construction.","counter":126}
+{"s":1338.02,"e":1344.46,"p":"14","S":"2","t":"Actually, at the site in Columbus, we'll have a Melcast slab capacity of around 600,000 metric tons.","counter":127}
+{"s":1345.02,"e":1352.44,"p":"14","S":"2","t":"And that will be supported by 2 satellite facilities one out west around Guilla Bend and one in Central Mexico.","counter":128}
+{"s":1353.35,"e":1356.09,"p":"14","S":"2","t":"Which are located in scrap rich regions.","counter":129}
+{"s":1356.23,"e":1365.29,"p":"14","S":"2","t":"We can capture the scrap turn it into cast slab and transport it very, very effectively cost of efficiently to the minute itself.","counter":130}
+{"s":1366.86,"e":1372.64,"p":"14","S":"2","t":"Expanded the project scope to include additional scrap processing and treatment to maximize aluminum recycled content.","counter":131}
+{"s":1373.76,"e":1386.05,"p":"14","S":"2","t":"Our metals recycling team has also developed a [indiscernible] which represents an incredible competitive advantage for us.","counter":132}
+{"s":1386.96,"e":1388.58,"p":"14","S":"2","t":"Our standard plans have not changed.","counter":133}
+{"s":1388.78,"e":1393.09,"p":"14","S":"2","t":"[indiscernible] should be operating mid-twenty 25.","counter":134}
+{"s":1393.93,"e":1399.2,"p":"14","S":"2","t":"The Mexico slab center at the end of 'twenty 4 and then Arizona mid-twenty 5.","counter":135}
+{"s":1400.16,"e":1412.11,"p":"14","S":"2","t":"The total project cost, including the recycled slab dollars With virtually all equipment and construction contracts complete, feel confident in the expected amount of investment.","counter":136}
+{"s":1412.99,"e":1427.33,"p":"14","S":"2","t":"We also are confident that it will add around about $650,000,000 to $700,000,000 of through cycle annual EBITDA plus an initial $40,000,000 to $50,000,000 from the Omni platform as well.","counter":137}
+{"s":1428.61,"e":1438.32,"p":"15","S":"2","t":"The investment premise if you think about it, the market environment is similar to the when we started SDI 30 years ago.","counter":138}
+{"s":1439.52,"e":1444.35,"p":"15","S":"2","t":"They have older assets, They've had difficulty earning their cost of capital.","counter":139}
+{"s":1444.35,"e":1451.13,"p":"15","S":"2","t":"So there's been little reinvestment heavy legacy costs, inefficient and operations are typically high cost.","counter":140}
+{"s":1452.08,"e":1457.33,"p":"15","S":"2","t":"And also a significant aluminum flat rolled supply deficit excess in North America.","counter":141}
+{"s":1457.49,"e":1458.77,"p":"15","S":"2","t":"Which is expected to grow.","counter":142}
+{"s":1458.77,"e":1465.38,"p":"15","S":"2","t":"And this would be the first time we've ever entered a market where there's a supply demand gap.","counter":143}
+{"s":1466.28,"e":1467.02,"p":"15","S":"2","t":"Pretty positive.","counter":144}
+{"s":1467.12,"e":1485.34,"p":"15","S":"2","t":"[indiscernible] Have business alignment and we can leverage our core competencies of construction, and operational knowhow we can lever Omni's recycling footprint As many of you know, we're the largest aluminum scrap recycler in North America.","counter":145}
+{"s":1485.83,"e":1490.81,"p":"15","S":"2","t":"And again, we are developing some some pretty exciting new separation technologies.","counter":146}
+{"s":1492,"e":1497.56,"p":"15","S":"2","t":"So it's going to be cost effective very, very high return [indiscernible] for us.","counter":147}
+{"s":1499.88,"e":1503.75,"p":"15","S":"2","t":"Moving on, we're impassioned, I think, by our future growth plans.","counter":148}
+{"s":1504.08,"e":1526.56,"p":"15","S":"2","t":"As they will continue to drive the high return growth momentum we have consistently damaged We have the highest most recent 5 year average after tax return on investment invested capital within the S and P 500 Materials Companies and in the most recent 3 years, we have had an average of after tax return on invested capital of 32%.","counter":149}
+{"s":1527.16,"e":1543.91,"p":"16","S":"2","t":"I think is a stunning number and a affirmation of the ability of [indiscernible] Our disciplined and intentional growth strategy Focused on differentiated value added supply chain solutions, to provide a sustainable and growing cash generation.","counter":150}
+{"s":1545.06,"e":1547.06,"p":"16","S":"2","t":"And we'll continue to do so in the future.","counter":151}
+{"s":1547.06,"e":1549.32,"p":"16","S":"2","t":"So I'm incredibly optimistic moving forward.","counter":152}
+{"s":1550.44,"e":1561.37,"p":"16","S":"2","t":"I believe the market dynamics are in place to support increased demand across our operating platforms in 20 4, North America will benefit from continued onshoring of manufacturing businesses.","counter":153}
+{"s":1561.88,"e":1562.45,"p":"16","S":"2","t":"And the U.","counter":154}
+{"s":1562.45,"e":1562.64,"p":"16","S":"2","t":"S.","counter":155}
+{"s":1562.64,"e":1569.44,"p":"16","S":"2","t":"Will benefit from the allocation of public monies from the infrastructure program, the Inflation Reduction Act and other public programs.","counter":156}
+{"s":1570.49,"e":1573.48,"p":"16","S":"2","t":"Steel Dynamics is levered to benefit from those programs.","counter":157}
+{"s":1573.88,"e":1583.26,"p":"16","S":"2","t":"Through increased steel joist and deck demand, flat and long product steel demand, and the associated higher demand for recycled scrap and aluminum.","counter":158}
+{"s":1585.06,"e":1590.84,"p":"16","S":"2","t":"As I said earlier, our teams are our foundation I thank each and every one of them for their passion and their dedication.","counter":159}
+{"s":1591.86,"e":1600.15,"p":"16","S":"2","t":"We're committed to them and I remind those listening today that safety for yourselves, your families and each other is our highest priority.","counter":160}
+{"s":1600.95,"e":1604.89,"p":"16","S":"2","t":"Our culture and business model continue to positively differentiate our performance.","counter":161}
+{"s":1605.52,"e":1608.5,"p":"16","S":"2","t":"Leading to best in class operating and financial metrics.","counter":162}
+{"s":1609.38,"e":1611.905,"p":"17","S":"2","t":"We're no longer a simple steel company.","counter":163}
+{"s":1612.22,"e":1619.9,"p":"17","S":"2","t":"We're an industrial metals business providing enhanced supply chain solutions to numerous industries that are essential to global economies.","counter":164}
+{"s":1620.7,"e":1638,"p":"17","S":"2","t":"This differentiation diversification mitigates Cash generation volatility in all market cycles as we've just seen in this past quarter We're competitively positioned and continue to focus on providing superior value for our companies for our customers, team members and shareholders alike.","counter":165}
+{"s":1638.8,"e":1643.35,"p":"17","S":"2","t":"We look forward to creating new opportunities for all of us today in the many years ahead.","counter":166}
+{"s":1645.03,"e":1687.36,"p":"17","S":"0","t":"With that said, Matthew, could you open the line up for questions [indiscernible] Your first question is coming from Martin Engler from Seaport Research Partners.","counter":167}
+{"s":1687.92,"e":1689.09,"p":"17","S":"0","t":"Your line is live.","counter":168}
+{"s":1690.13,"e":1690.53,"p":"17","S":"0","t":"Hello.","counter":169}
+{"s":1690.53,"e":1691.51,"p":"17","S":"0","t":"Good morning, everyone.","counter":170}
+{"s":1696.07,"e":1699.48,"p":"17","S":"0","t":"Within steel, conversion costs appear to have declined a bit.","counter":171}
+{"s":1699.72,"e":1700.92,"p":"18","S":"5","t":"Quarter on quarter.","counter":172}
+{"s":1700.92,"e":1711.5,"p":"18","S":"5","t":"Taking into account incentives continue to ramp up, and substrate costs going into 2Q, would you anticipate a comparable reduction in the current quarter?","counter":173}
+{"s":1713.96,"e":1723.46,"p":"19","S":"3","t":"Martin, the way that that you and others are able to [indiscernible] actually calculate what you call conversion costs is a little bit difficult.","counter":174}
+{"s":1728.38,"e":1741.83,"p":"19","S":"3","t":"To continue to improve into the second quarter and the second half of the year, you will see that the additional volume will help compress costs across the spectrum, but product mix is also something that you need to take into consideration when you think about flat versus long.","counter":175}
+{"s":1742.39,"e":1751.11,"p":"19","S":"3","t":"But we would expect to see that the the conversion rate, as you calculate it, would continue to reduce I can't speak to the exact magnitude thereof.","counter":176}
+{"s":1753.05,"e":1753.55,"p":"20","S":"5","t":"Okay.","counter":177}
+{"s":1753.69,"e":1754.57,"p":"20","S":"5","t":"Appreciate that.","counter":178}
+{"s":1754.57,"e":1756.96,"p":"20","S":"5","t":"Since you and congratulations on results.","counter":179}
+{"s":1758.32,"e":1759.22,"p":"21","S":"5","t":"Thank you.","counter":180}
+{"s":1760.1,"e":1760.66,"p":"22","S":"0","t":"Thank you.","counter":181}
+{"s":1760.66,"e":1763.88,"p":"22","S":"0","t":"Your next question is coming from Kurt Woodworth from UBS.","counter":182}
+{"s":1764.34,"e":1765.41,"p":"22","S":"0","t":"Your line is live.","counter":183}
+{"s":1765.41,"e":1773.89,"p":"22","S":"5","t":"[indiscernible] A couple of questions on the Greenfield aluminum project.","counter":184}
+{"s":1773.89,"e":1797.28,"p":"22","S":"1","t":"Can you give us a timeline on where when you think you could get to more of a EBITDA breakeven level on the facility and what type of utilization rate you think you would need to achieve that then can you speak to what level of commercial commitments or arrangements that you've been able to achieve at this point?","counter":185}
+{"s":1797.42,"e":1806.62,"p":"22","S":"1","t":"And then just lastly, I saw you kept the CapEx just around general inflationary pressures.","counter":186}
+{"s":1806.62,"e":1810.89,"p":"22","S":"1","t":"But do you feel are you seeing any upward pressure on the CapEx number?","counter":187}
+{"s":1810.89,"e":1816.26,"p":"22","S":"5","t":"And are you pretty confident on keeping that number at 2.7% going forward?","counter":188}
+{"s":1820.95,"e":1821.85,"p":"23","S":"2","t":"I'll go backwards.","counter":189}
+{"s":1822.35,"e":1823.55,"p":"23","S":"2","t":"It's the easy way.","counter":190}
+{"s":1824.32,"e":1832.05,"p":"23","S":"2","t":"From a CapEx standpoint, as I mentioned in my sort of preliminary thoughts, virtually everything is now contracted out.","counter":191}
+{"s":1832.53,"e":1845.32,"p":"23","S":"2","t":"We did and you saw here some months ago we did bump it up to $2,700,000,000 with the with the knowledge of some inflationary pressures.","counter":192}
+{"s":1847.08,"e":1854.96,"p":"23","S":"2","t":"Those are all baked into that $2,700,000,000 and we see no no expansion on that number going forward.","counter":193}
+{"s":1855.77,"e":1881.56,"p":"23","S":"2","t":"From a commercial arrangement perspective, We've been working obviously with the major sort of beer can or the beverage can [indiscernible] we've been working with automotive as well And we're pretty confident that we have the ability to match our customer demand with the ramp up curve.","counter":194}
+{"s":1882.58,"e":1887.98,"p":"23","S":"2","t":"As we also mentioned, operations should start mid-twenty 5.","counter":195}
+{"s":1889.14,"e":1901.55,"p":"23","S":"2","t":"There will be some qualifications Early on, but we're confident that we can match the demand from those customers with that start up ramp.","counter":196}
+{"s":1902.5,"e":1912.99,"p":"23","S":"2","t":"Standpoint of EBITDA breakeven, I would imagine [indiscernible] from the end of the year, I would hope we'd be in that position.","counter":197}
+{"s":1915.65,"e":1915.97,"p":"24","S":"5","t":"Okay.","counter":198}
+{"s":1915.97,"e":1918.93,"p":"24","S":"5","t":"And then just a quick follow-up on on fabrication.","counter":199}
+{"s":1919.07,"e":1924.29,"p":"24","S":"5","t":"Last quarter, you talked about order entry improving and pricing continues to be stable.","counter":200}
+{"s":1924.29,"e":1927.89,"p":"24","S":"5","t":"But [indiscernible] downward pressure in the business.","counter":201}
+{"s":1927.89,"e":1934.07,"p":"24","S":"1","t":"Can you just give us a sense for maybe volumetrically how you see things performing into 2Q?","counter":202}
+{"s":1934.07,"e":1937.43,"p":"24","S":"5","t":"I know 1Q is always seasonally weak and there was some weather related disruption.","counter":203}
+{"s":1937.43,"e":1943.23,"p":"24","S":"1","t":"But do you think you can get close to getting back to positive growth in fabrication?","counter":204}
+{"s":1943.53,"e":1955.44,"p":"24","S":"1","t":"And then just in Joyston Deck in general, can you give us a sense for maybe how those products fit into some of these federal programs in terms of the CHIPS Act, IRA battery plants?","counter":205}
+{"s":1955.44,"e":1962.06,"p":"24","S":"5","t":"Do you see any new sources of growth [indiscernible] mitigate what's been somewhat of an error pocket on the warehouse side?","counter":206}
+{"s":1962.06,"e":1962.71,"p":"24","S":"5","t":"Thank you.","counter":207}
+{"s":1964.85,"e":1965.33,"p":"25","S":"2","t":"Yes.","counter":208}
+{"s":1965.33,"e":1972.33,"p":"25","S":"2","t":"I guess from our perspective, and I will let Teresa and Barry chip in here in a little bit.","counter":209}
+{"s":1972.33,"e":1988.83,"p":"25","S":"2","t":"But from a shipment standpoint, in Q4 and early Q1, shipments kind of leveled off the pre COVID levels We've seen some general seasonality and there's some regional weather impacts here and there.","counter":210}
+{"s":1989.23,"e":1997.54,"p":"25","S":"2","t":"But booking rates increased in March and are up again meaningfully in April, backlogs are roundabout 6 months.","counter":211}
+{"s":1998.45,"e":2012.14,"p":"25","S":"2","t":"So we personally consider that to be kind of a volume trough and we think things are going to move up volume wise in the Q2 into the rest of the rest of the year.","counter":212}
+{"s":2013.18,"e":2021.38,"p":"25","S":"2","t":"And I think thing to emphasize There's only been slight quarter over quarter price erosion.","counter":213}
+{"s":2022.84,"e":2041.29,"p":"25","S":"2","t":"And so for that, to or that market strength to be there, I think it confirms our thesis that there's been a paradigm shift in through cycle spreads And I think we've got a very, very, very constructive view of the long term prospects for fabrication.","counter":214}
+{"s":2043.98,"e":2061.56,"p":"26","S":"3","t":"I think something that I would point out and it did in addition to what Mark said, if you look at take into consideration that volumes are to Mark's point, at a pre COVID level, but earnings were still from an operating income perspective about over $1200 per ton.","counter":215}
+{"s":2061.7,"e":2067.72,"p":"26","S":"3","t":"If you looked historically in a very strong market, that number might have been $150 to $200 per ton.","counter":216}
+{"s":2067.98,"e":2080.46,"p":"26","S":"3","t":"So structurally, there has been a significant difference and it is proving out the theory that we had that there's a structural shift Barry, maybe you want to talk a little bit about how the programs go into the public dollars?","counter":217}
+{"s":2081.98,"e":2108.42,"p":"27","S":"4","t":"Allow these public the CHIPS Act and the IRA Act, there's a lot of work that has to happen upfront And once those projects are owners are identified and engineering companies are identified, that's when it starts flowing into all the steel products, but specifically when we look at the joist and deck, once it's a concrete kind of a plan of what's going to be built, The timeline is actually pretty quick.","counter":218}
+{"s":2108.42,"e":2114.95,"p":"27","S":"4","t":"So when those orders start being placed, it's typically typically in a kind of a 3 to 6 month window when they start shipping.","counter":219}
+{"s":2114.95,"e":2122.67,"p":"27","S":"4","t":"So So we're encouraged by what we hear, what we communicate through the general contract the fabricators out in the marketplace.","counter":220}
+{"s":2123.05,"e":2127.15,"p":"27","S":"4","t":"So again, we have good reason to believe the second half of the year fills up.","counter":221}
+{"s":2127.24,"e":2134.6,"p":"27","S":"4","t":"[indiscernible] moving from conceptual phase to actually entering construction phases.","counter":222}
+{"s":2137.35,"e":2137.75,"p":"28","S":"3","t":"Okay.","counter":223}
+{"s":2137.75,"e":2138.97,"p":"29","S":"4","t":"Thanks very much.","counter":224}
+{"s":2140.43,"e":2140.91,"p":"30","S":"0","t":"Thank you.","counter":225}
+{"s":2140.91,"e":2144.71,"p":"30","S":"0","t":"Your next question is coming from Carlos De Alba from Morgan Stanley.","counter":226}
+{"s":2144.98,"e":2146.07,"p":"30","S":"0","t":"Your line is live.","counter":227}
+{"s":2147.51,"e":2147.59,"p":"31","S":"4","t":"Yes.","counter":228}
+{"s":2147.59,"e":2149.45,"p":"31","S":"4","t":"Good morning, Theresa and Mark.","counter":229}
+{"s":2149.67,"e":2158.86,"p":"31","S":"6","t":"Just continuing with the discussion, the long steel volumes declined quite sharply or meaningfully year on year.","counter":230}
+{"s":2159.26,"e":2168.8,"p":"31","S":"6","t":"Can you maybe provide more color as to the different end markets within construction and infrastructure that may be leading to these this decline?","counter":231}
+{"s":2168.8,"e":2176.94,"p":"31","S":"6","t":"I mean, clearly, the backdrop for the coming years for sure is quite solid, but at least in the Q1 the numbers just weren't there.","counter":232}
+{"s":2177.14,"e":2180.59,"p":"31","S":"6","t":"So any color on the different construction market would be great.","counter":233}
+{"s":2184.89,"e":2195.81,"p":"32","S":"4","t":"Carlos, I would say as you look at the mix across line products, as we make sections that are that are lighter sections, that's more response to what the marketplace is right now.","counter":234}
+{"s":2195.81,"e":2200.06,"p":"32","S":"4","t":"So we've had a pretty robust level of order input.","counter":235}
+{"s":2201.26,"e":2204.725,"p":"32","S":"4","t":"And structural rail has performed pretty well.","counter":236}
+{"s":2204.93,"e":2208.71,"p":"32","S":"4","t":"We tend to balance between our rail production and our structural production.","counter":237}
+{"s":2209.68,"e":2220.09,"p":"32","S":"4","t":"And I think in general, I would say the market space has changed from one of where a lot more fabricators are directly going to mills to more of a service center type relationship.","counter":238}
+{"s":2221.02,"e":2224.82,"p":"32","S":"4","t":"And that's again a more historical way to go into the market.","counter":239}
+{"s":2225.6,"e":2229.12,"p":"32","S":"4","t":"After the busy years for the last several years with construction spending.","counter":240}
+{"s":2229.12,"e":2237.08,"p":"32","S":"4","t":"So So we see good response from our customer base and we have healthy backlogs in our long products right now.","counter":241}
+{"s":2238.36,"e":2239.42,"p":"33","S":"6","t":"Thank you, Barry.","counter":242}
+{"s":2239.88,"e":2253,"p":"33","S":"6","t":"If I may ask another one aluminum project, have you been able to already secure contracts with some of your customers or that's still undergoing in terms of discussions with them?","counter":243}
+{"s":2256.98,"e":2259.16,"p":"34","S":"2","t":"Thomas, still on the discussion.","counter":244}
+{"s":2259.46,"e":2284.93,"p":"34","S":"2","t":"Obviously, it's a we're a new mill And so there's a balance between them making sure that they feel confident that the volume is going to be there But as I said earlier, we have [indiscernible] in place that will support in large part support the 1st 12 to 18 months of of our ramp up.","counter":245}
+{"s":2286.37,"e":2287.17,"p":"35","S":"6","t":"Thank you, Mike.","counter":246}
+{"s":2287.17,"e":2287.82,"p":"35","S":"6","t":"Good luck.","counter":247}
+{"s":2288.86,"e":2289.68,"p":"36","S":"1","t":"Thank you.","counter":248}
+{"s":2290.42,"e":2290.98,"p":"37","S":"0","t":"Thank you.","counter":249}
+{"s":2290.98,"e":2294.52,"p":"37","S":"0","t":"Your next question is coming from Timna Tanners from Wolfe Research.","counter":250}
+{"s":2294.89,"e":2295.87,"p":"37","S":"0","t":"Your line is live.","counter":251}
+{"s":2297.23,"e":2298.75,"p":"38","S":"6","t":"Hey, good morning guys.","counter":252}
+{"s":2298.75,"e":2303.08,"p":"39","S":"3","t":"I'm going to ask Carlos this question a different way if you don't mind on the long product side.","counter":253}
+{"s":2303.08,"e":2310.32,"p":"39","S":"3","t":"The volumes as I see them were sharply down from last year and the year ago period in the Q1.","counter":254}
+{"s":2310.32,"e":2314.48,"p":"39","S":"3","t":"So I guess it sounds like from the answer, you're still seeing quite strong demand.","counter":255}
+{"s":2314.48,"e":2333.06,"p":"39","S":"3","t":"So I guess should we expect that this was a blip and that maybe there were some weather related reasons and the rest of the year could be more consistent with past years or is there something that's changed in your outlook for the long product across Structurals, BARS, those all those divisions, which would be really helpful.","counter":256}
+{"s":2333.06,"e":2333.56,"p":"39","S":"3","t":"Thanks.","counter":257}
+{"s":2335.01,"e":2359.07,"p":"40","S":"2","t":"Well, I think it's in large part sort of the seasonality and just weather related issues And you saw some price adjustment here in the marketplace [indiscernible] [indiscernible] 6 weeks to 8 weeks ago, And again, that wasn't necessarily market pressure.","counter":258}
+{"s":2359.07,"e":2372.87,"p":"40","S":"2","t":"That was just absorbing some discounting that had leaked into the marketplace over the the prior [indiscernible] We feel confident moving forward for the rest of the year.","counter":259}
+{"s":2373.83,"e":2374.74,"p":"40","S":"2","t":"In that space.","counter":260}
+{"s":2378.16,"e":2378.56,"p":"41","S":"3","t":"Okay.","counter":261}
+{"s":2378.56,"e":2384.87,"p":"41","S":"3","t":"So maybe particularly challenging Q1 and rest of the year looks solid, it sounds like.","counter":262}
+{"s":2385.23,"e":2399.27,"p":"41","S":"3","t":"And then my other question, if I could, was just if you could remind us about the cadence of [indiscernible] lines, the paint lines and the Galv lines and how to think about increasing volume and profitability would be great.","counter":263}
+{"s":2399.27,"e":2399.77,"p":"41","S":"3","t":"Thank you.","counter":264}
+{"s":2401.61,"e":2401.85,"p":"42","S":"4","t":"Yes.","counter":265}
+{"s":2401.85,"e":2407.18,"p":"42","S":"4","t":"Tim, all four of the process lines at this point have actually run product.","counter":266}
+{"s":2408.22,"e":2417.02,"p":"42","S":"4","t":"We staged the startup to best utilize our teams and also to really focus on improving the startup process for the other lines.","counter":267}
+{"s":2417.95,"e":2425.12,"p":"42","S":"4","t":"So a paint line in Terre Haute is is up and running well, shipping prime product.","counter":268}
+{"s":2425.5,"e":2432.91,"p":"42","S":"4","t":"We expect that that ramps up through Q2, Q3 getting up closer or closer to what the final production will be.","counter":269}
+{"s":2433.47,"e":2451.43,"p":"42","S":"4","t":"On the converse, the new galvanizing line down in Sitin actually started up very well, started up in January is solidly contributing at a very high rate already, which as Mark has said, the team has done a fabulous job getting that line, making quality like that so quickly.","counter":270}
+{"s":2451.8,"e":2456.03,"p":"42","S":"4","t":"We have an all hands on deck approach, so all the other mills are supporting the team.","counter":271}
+{"s":2456.17,"e":2460.92,"p":"42","S":"4","t":"And we're we're continually moving people through to keep the energy high.","counter":272}
+{"s":2461.28,"e":2468.91,"p":"42","S":"4","t":"So I see the second galvanizing line in Terre Haute coming up Q2 into more operational status.","counter":273}
+{"s":2470.34,"e":2472.28,"p":"42","S":"4","t":"And progressing to the end of the year.","counter":274}
+{"s":2473.07,"e":2482.2,"p":"42","S":"4","t":"The paint line through Q2, through Q3 at Terre Haute, And then the new paint line in Houston, Texas will actually be maturing to the end of the year.","counter":275}
+{"s":2482.92,"e":2485.26,"p":"43","S":"4","t":"So all four units will be contributing soundly.","counter":276}
+{"s":2485.73,"e":2489.67,"p":"43","S":"4","t":"In Q2 and progressing through 3rd, 4th quarter.","counter":277}
+{"s":2491.59,"e":2491.91,"p":"44","S":"6","t":"Okay.","counter":278}
+{"s":2491.91,"e":2492.81,"p":"45","S":"3","t":"Thanks again.","counter":279}
+{"s":2494.76,"e":2495.32,"p":"46","S":"0","t":"Thank you.","counter":280}
+{"s":2495.32,"e":2499.7,"p":"46","S":"0","t":"Your next question is coming from Katja Jansic from BMO Capital Markets.","counter":281}
+{"s":2499.78,"e":2500.92,"p":"46","S":"0","t":"Your line is live.","counter":282}
+{"s":2502.01,"e":2502.17,"p":"47","S":"3","t":"Hi.","counter":283}
+{"s":2502.17,"e":2503.79,"p":"47","S":"3","t":"Thank you for taking my question.","counter":284}
+{"s":2504.17,"e":2511.16,"p":"47","S":"3","t":"On Sinten, you provide a bit more color how we should think about the utilization rates in the rest of the year?","counter":285}
+{"s":2516.82,"e":2520.85,"p":"48","S":"4","t":"As we had talked, we we're about 70% through Q1.","counter":286}
+{"s":2521.15,"e":2526.03,"p":"48","S":"4","t":"We We did take some time for a significant outage in April that was planned.","counter":287}
+{"s":2526.61,"e":2534.94,"p":"48","S":"4","t":"To, among other things, address the power problem we had with the primary side voltage at the plant.","counter":288}
+{"s":2534.94,"e":2542.64,"p":"48","S":"4","t":"So we see a really good path to 80% progressing through operational by the end of the year getting up in the capacity.","counter":289}
+{"s":2543.74,"e":2549,"p":"48","S":"4","t":"In front of us, we see better and better performance routine performance every day.","counter":290}
+{"s":2549,"e":2552.96,"p":"48","S":"4","t":"So as as the team encounters challenges, they work through them quicker.","counter":291}
+{"s":2553.6,"e":2560.45,"p":"48","S":"4","t":"And through all this, they remain a very safe operation, which is so important during startup.","counter":292}
+{"s":2560.45,"e":2571.115,"p":"48","S":"4","t":"So the teams in place, the new assets will allow us to provide the best mix possible upstream so that the efficiency that of the plant can really be explored further.","counter":293}
+{"s":2571.115,"e":2575.98,"p":"48","S":"6","t":"So we continue to be very robust on where we're going and the success of the team.","counter":294}
+{"s":2577.5,"e":2580.81,"p":"49","S":"3","t":"Maybe I missed this, but was there a power issue during the Q1?","counter":295}
+{"s":2583.56,"e":2590.22,"p":"50","S":"4","t":"We had talked about the primary side power year and having some transformers that needed to be replaced.","counter":296}
+{"s":2592.03,"e":2594.35,"p":"50","S":"4","t":"And that equipment is very long lead times.","counter":297}
+{"s":2594.35,"e":2602.12,"p":"50","S":"4","t":"Our team was able to secure some shorter term solutions that we've engineered into place and done the construction.","counter":298}
+{"s":2602.26,"e":2607.91,"p":"50","S":"4","t":"So now that the outage is over, we could we could put that equipment in with the power off.","counter":299}
+{"type":"sentiment","counter":4,"sentiment":"negative"}
+{"type":"sentiment","counter":5,"sentiment":"positive"}
+{"type":"sentiment","counter":6,"sentiment":"negative"}
+{"type":"sentiment","counter":7,"sentiment":"positive"}
+{"type":"sentiment","counter":8,"sentiment":"positive"}
+{"type":"sentiment","counter":9,"sentiment":"neutral"}
+{"type":"sentiment","counter":10,"sentiment":"negative"}
+{"type":"sentiment","counter":11,"sentiment":"positive"}
+{"type":"sentiment","counter":12,"sentiment":"neutral"}
+{"s":2608.45,"e":2614.55,"p":"50","S":"4","t":"We look to bring that the new transformer support so that the plant has full operational capacity.","counter":300}
+{"type":"sentiment","counter":13,"sentiment":"neutral"}
+{"type":"sentiment","counter":14,"sentiment":"negative"}
+{"type":"sentiment","counter":15,"sentiment":"neutral"}
+{"type":"sentiment","counter":16,"sentiment":"neutral"}
+{"type":"sentiment","counter":17,"sentiment":"positive"}
+{"s":2614.55,"e":2618.61,"p":"50","S":"4","t":"We've been internally limited at about 80% of the power capability.","counter":301}
+{"s":2619.43,"e":2620.63,"p":"50","S":"4","t":"On the melting furnaces.","counter":302}
+{"type":"sentiment","counter":18,"sentiment":"positive"}
+{"type":"sentiment","counter":19,"sentiment":"negative"}
+{"type":"sentiment","counter":20,"sentiment":"neutral"}
+{"type":"sentiment","counter":21,"sentiment":"positive"}
+{"type":"sentiment","counter":22,"sentiment":"negative"}
+{"type":"sentiment","counter":23,"sentiment":"negative"}
+{"type":"sentiment","counter":24,"sentiment":"positive"}
+{"type":"sentiment","counter":25,"sentiment":"neutral"}
+{"s":2620.63,"e":2623.83,"p":"50","S":"4","t":"So at this point now, this will help remove that restriction.","counter":303}
+{"type":"sentiment","counter":26,"sentiment":"positive"}
+{"type":"sentiment","counter":27,"sentiment":"neutral"}
+{"type":"sentiment","counter":28,"sentiment":"positive"}
+{"type":"sentiment","counter":29,"sentiment":"negative"}
+{"type":"sentiment","counter":30,"sentiment":"neutral"}
+{"type":"sentiment","counter":31,"sentiment":"positive"}
+{"type":"sentiment","counter":32,"sentiment":"positive"}
+{"type":"sentiment","counter":33,"sentiment":"positive"}
+{"type":"sentiment","counter":34,"sentiment":"positive"}
+{"type":"sentiment","counter":35,"sentiment":"neutral"}
+{"s":2624.37,"e":2628.15,"p":"50","S":"4","t":"When it's finally utilized, it'll be somewhere between now and the end of May.","counter":304}
+{"type":"sentiment","counter":36,"sentiment":"negative"}
+{"type":"sentiment","counter":37,"sentiment":"positive"}
+{"type":"sentiment","counter":38,"sentiment":"neutral"}
+{"type":"sentiment","counter":39,"sentiment":"negative"}
+{"type":"sentiment","counter":40,"sentiment":"neutral"}
+{"type":"sentiment","counter":41,"sentiment":"positive"}
+{"type":"sentiment","counter":42,"sentiment":"negative"}
+{"type":"sentiment","counter":43,"sentiment":"neutral"}
+{"type":"sentiment","counter":44,"sentiment":"neutral"}
+{"type":"sentiment","counter":45,"sentiment":"negative"}
+{"type":"sentiment","counter":46,"sentiment":"neutral"}
+{"type":"sentiment","counter":47,"sentiment":"negative"}
+{"s":2628.15,"e":2636.44,"p":"50","S":"4","t":"[indiscernible] this April outage was key to give us the opportunity to get the construction done, to work on the high voltage bus.","counter":305}
+{"type":"sentiment","counter":48,"sentiment":"negative"}
+{"type":"sentiment","counter":49,"sentiment":"neutral"}
+{"type":"sentiment","counter":50,"sentiment":"neutral"}
+{"type":"sentiment","counter":51,"sentiment":"negative"}
+{"type":"sentiment","counter":52,"sentiment":"negative"}
+{"type":"sentiment","counter":53,"sentiment":"neutral"}
+{"s":2636.44,"e":2640.17,"p":"50","S":"4","t":"It requires the whole plant to be have the power off.","counter":306}
+{"type":"sentiment","counter":54,"sentiment":"negative"}
+{"type":"sentiment","counter":55,"sentiment":"negative"}
+{"type":"sentiment","counter":56,"sentiment":"neutral"}
+{"type":"sentiment","counter":57,"sentiment":"negative"}
+{"type":"sentiment","counter":58,"sentiment":"positive"}
+{"type":"sentiment","counter":59,"sentiment":"positive"}
+{"type":"sentiment","counter":60,"sentiment":"positive"}
+{"type":"sentiment","counter":61,"sentiment":"positive"}
+{"type":"sentiment","counter":62,"sentiment":"neutral"}
+{"type":"sentiment","counter":63,"sentiment":"neutral"}
+{"type":"sentiment","counter":64,"sentiment":"positive"}
+{"s":2640.17,"e":2642.03,"p":"50","S":"4","t":"So again, great work happening.","counter":307}
+{"s":2642.41,"e":2643.45,"p":"50","S":"4","t":"It's unfortunate.","counter":308}
+{"s":2643.45,"e":2644.99,"p":"50","S":"4","t":"These are long lead time items.","counter":309}
+{"type":"sentiment","counter":65,"sentiment":"positive"}
+{"type":"sentiment","counter":66,"sentiment":"positive"}
+{"type":"sentiment","counter":67,"sentiment":"positive"}
+{"type":"sentiment","counter":68,"sentiment":"neutral"}
+{"type":"sentiment","counter":69,"sentiment":"neutral"}
+{"type":"sentiment","counter":70,"sentiment":"neutral"}
+{"type":"sentiment","counter":71,"sentiment":"negative"}
+{"type":"sentiment","counter":72,"sentiment":"positive"}
+{"type":"sentiment","counter":73,"sentiment":"positive"}
+{"type":"sentiment","counter":74,"sentiment":"positive"}
+{"type":"sentiment","counter":75,"sentiment":"negative"}
+{"type":"sentiment","counter":76,"sentiment":"positive"}
+{"type":"sentiment","counter":77,"sentiment":"negative"}
+{"type":"sentiment","counter":78,"sentiment":"positive"}
+{"type":"sentiment","counter":79,"sentiment":"positive"}
+{"type":"sentiment","counter":80,"sentiment":"neutral"}
+{"s":2645.92,"e":2650.1,"p":"50","S":"4","t":"And we've we've remedied the situation that we believe contributed to it.","counter":310}
+{"type":"sentiment","counter":81,"sentiment":"positive"}
+{"type":"sentiment","counter":82,"sentiment":"positive"}
+{"type":"sentiment","counter":83,"sentiment":"positive"}
+{"type":"sentiment","counter":84,"sentiment":"neutral"}
+{"type":"sentiment","counter":85,"sentiment":"negative"}
+{"type":"sentiment","counter":86,"sentiment":"neutral"}
+{"type":"sentiment","counter":87,"sentiment":"negative"}
+{"type":"sentiment","counter":88,"sentiment":"positive"}
+{"type":"sentiment","counter":89,"sentiment":"positive"}
+{"type":"sentiment","counter":90,"sentiment":"neutral"}
+{"type":"sentiment","counter":91,"sentiment":"negative"}
+{"type":"sentiment","counter":92,"sentiment":"neutral"}
+{"type":"sentiment","counter":93,"sentiment":"neutral"}
+{"type":"sentiment","counter":94,"sentiment":"neutral"}
+{"type":"sentiment","counter":95,"sentiment":"negative"}
+{"s":2650.46,"e":2653.99,"p":"50","S":"4","t":"So we're very excited this problem will be behind us here shortly.","counter":311}
+{"s":2655.43,"e":2655.75,"p":"51","S":"6","t":"Okay.","counter":312}
+{"s":2655.75,"e":2656.47,"p":"51","S":"3","t":"Thank you.","counter":313}
+{"s":2658.4,"e":2659.12,"p":"52","S":"0","t":"Thank you.","counter":314}
+{"type":"sentiment","counter":96,"sentiment":"positive"}
+{"type":"sentiment","counter":97,"sentiment":"positive"}
+{"type":"sentiment","counter":98,"sentiment":"negative"}
+{"type":"sentiment","counter":99,"sentiment":"neutral"}
+{"type":"sentiment","counter":100,"sentiment":"negative"}
+{"type":"sentiment","counter":101,"sentiment":"negative"}
+{"type":"sentiment","counter":102,"sentiment":"positive"}
+{"type":"sentiment","counter":103,"sentiment":"negative"}
+{"s":2659.12,"e":2662.7,"p":"52","S":"0","t":"Your next question is coming from Lawson Winder from Bank of America.","counter":315}
+{"type":"sentiment","counter":104,"sentiment":"negative"}
+{"type":"sentiment","counter":105,"sentiment":"neutral"}
+{"type":"sentiment","counter":106,"sentiment":"neutral"}
+{"type":"sentiment","counter":107,"sentiment":"neutral"}
+{"type":"sentiment","counter":108,"sentiment":"positive"}
+{"type":"sentiment","counter":109,"sentiment":"neutral"}
+{"type":"sentiment","counter":110,"sentiment":"positive"}
+{"type":"sentiment","counter":111,"sentiment":"neutral"}
+{"type":"sentiment","counter":112,"sentiment":"neutral"}
+{"s":2663.01,"e":2664.08,"p":"52","S":"0","t":"Your line is live.","counter":316}
+{"s":2665.82,"e":2666.78,"p":"53","S":"1","t":"Thank you, operator.","counter":317}
+{"s":2666.78,"e":2667.42,"p":"53","S":"1","t":"Good morning.","counter":318}
+{"type":"sentiment","counter":113,"sentiment":"neutral"}
+{"type":"sentiment","counter":114,"sentiment":"negative"}
+{"type":"sentiment","counter":115,"sentiment":"positive"}
+{"type":"sentiment","counter":116,"sentiment":"positive"}
+{"type":"sentiment","counter":117,"sentiment":"negative"}
+{"type":"sentiment","counter":118,"sentiment":"negative"}
+{"type":"sentiment","counter":119,"sentiment":"negative"}
+{"type":"sentiment","counter":120,"sentiment":"positive"}
+{"type":"sentiment","counter":121,"sentiment":"neutral"}
+{"type":"sentiment","counter":122,"sentiment":"neutral"}
+{"type":"sentiment","counter":123,"sentiment":"positive"}
+{"type":"sentiment","counter":124,"sentiment":"neutral"}
+{"type":"sentiment","counter":125,"sentiment":"neutral"}
+{"type":"sentiment","counter":126,"sentiment":"neutral"}
+{"type":"sentiment","counter":127,"sentiment":"positive"}
+{"type":"sentiment","counter":128,"sentiment":"neutral"}
+{"type":"sentiment","counter":129,"sentiment":"negative"}
+{"type":"sentiment","counter":130,"sentiment":"positive"}
+{"type":"sentiment","counter":131,"sentiment":"negative"}
+{"type":"sentiment","counter":132,"sentiment":"negative"}
+{"type":"sentiment","counter":133,"sentiment":"neutral"}
+{"type":"sentiment","counter":134,"sentiment":"neutral"}
+{"type":"sentiment","counter":135,"sentiment":"positive"}
+{"type":"sentiment","counter":136,"sentiment":"negative"}
+{"s":2667.42,"e":2679.56,"p":"53","S":"1","t":"Mark Teresa Barry, Could you share with us your views on the CRC HRC spread spreads that have been quite robust recently.","counter":319}
+{"type":"sentiment","counter":137,"sentiment":"neutral"}
+{"type":"sentiment","counter":138,"sentiment":"positive"}
+{"type":"sentiment","counter":139,"sentiment":"neutral"}
+{"type":"sentiment","counter":140,"sentiment":"negative"}
+{"type":"sentiment","counter":141,"sentiment":"neutral"}
+{"type":"sentiment","counter":142,"sentiment":"neutral"}
+{"type":"sentiment","counter":143,"sentiment":"neutral"}
+{"type":"sentiment","counter":144,"sentiment":"positive"}
+{"type":"sentiment","counter":145,"sentiment":"neutral"}
+{"type":"sentiment","counter":146,"sentiment":"neutral"}
+{"type":"sentiment","counter":147,"sentiment":"positive"}
+{"type":"sentiment","counter":148,"sentiment":"neutral"}
+{"type":"sentiment","counter":149,"sentiment":"neutral"}
+{"type":"sentiment","counter":150,"sentiment":"negative"}
+{"type":"sentiment","counter":151,"sentiment":"neutral"}
+{"type":"sentiment","counter":152,"sentiment":"positive"}
+{"type":"sentiment","counter":153,"sentiment":"negative"}
+{"s":2680.2,"e":2690.25,"p":"53","S":"1","t":"What are your thoughts on what's driving that and I know you don't like to guide to pricing, but what are your I'll try this one and ask what your thoughts are on what that might look like going forward.","counter":320}
+{"type":"sentiment","counter":154,"sentiment":"positive"}
+{"type":"sentiment","counter":155,"sentiment":"positive"}
+{"type":"sentiment","counter":156,"sentiment":"positive"}
+{"type":"sentiment","counter":157,"sentiment":"negative"}
+{"type":"sentiment","counter":158,"sentiment":"negative"}
+{"type":"sentiment","counter":159,"sentiment":"neutral"}
+{"type":"sentiment","counter":160,"sentiment":"negative"}
+{"type":"sentiment","counter":161,"sentiment":"positive"}
+{"type":"sentiment","counter":162,"sentiment":"negative"}
+{"type":"sentiment","counter":163,"sentiment":"negative"}
+{"type":"sentiment","counter":164,"sentiment":"neutral"}
+{"type":"sentiment","counter":165,"sentiment":"positive"}
+{"type":"sentiment","counter":166,"sentiment":"negative"}
+{"type":"sentiment","counter":167,"sentiment":"neutral"}
+{"type":"sentiment","counter":168,"sentiment":"positive"}
+{"type":"sentiment","counter":169,"sentiment":"positive"}
+{"type":"sentiment","counter":170,"sentiment":"positive"}
+{"type":"sentiment","counter":171,"sentiment":"positive"}
+{"s":2693.21,"e":2698.52,"p":"54","S":"2","t":"I will start which reiterate what I've always said in past calls.","counter":321}
+{"type":"sentiment","counter":172,"sentiment":"negative"}
+{"type":"sentiment","counter":173,"sentiment":"negative"}
+{"type":"sentiment","counter":174,"sentiment":"neutral"}
+{"type":"sentiment","counter":175,"sentiment":"neutral"}
+{"type":"sentiment","counter":176,"sentiment":"negative"}
+{"type":"sentiment","counter":177,"sentiment":"positive"}
+{"type":"sentiment","counter":178,"sentiment":"neutral"}
+{"type":"sentiment","counter":179,"sentiment":"positive"}
+{"type":"sentiment","counter":180,"sentiment":"positive"}
+{"type":"sentiment","counter":181,"sentiment":"positive"}
+{"type":"sentiment","counter":182,"sentiment":"positive"}
+{"type":"sentiment","counter":183,"sentiment":"negative"}
+{"type":"sentiment","counter":184,"sentiment":"neutral"}
+{"type":"sentiment","counter":185,"sentiment":"negative"}
+{"type":"sentiment","counter":186,"sentiment":"neutral"}
+{"type":"sentiment","counter":187,"sentiment":"neutral"}
+{"type":"sentiment","counter":188,"sentiment":"positive"}
+{"type":"sentiment","counter":189,"sentiment":"positive"}
+{"type":"sentiment","counter":190,"sentiment":"positive"}
+{"s":2699.91,"e":2712.96,"p":"54","S":"2","t":"Coated products are gaining more and more market share, just Generally, And there are some pretty dynamic changes within the marketplace that is even added to that.","counter":322}
+{"type":"sentiment","counter":191,"sentiment":"neutral"}
+{"type":"sentiment","counter":192,"sentiment":"negative"}
+{"type":"sentiment","counter":193,"sentiment":"neutral"}
+{"type":"sentiment","counter":194,"sentiment":"neutral"}
+{"type":"sentiment","counter":195,"sentiment":"negative"}
+{"type":"sentiment","counter":196,"sentiment":"negative"}
+{"type":"sentiment","counter":197,"sentiment":"positive"}
+{"type":"sentiment","counter":198,"sentiment":"positive"}
+{"type":"sentiment","counter":199,"sentiment":"negative"}
+{"type":"sentiment","counter":200,"sentiment":"negative"}
+{"type":"sentiment","counter":201,"sentiment":"neutral"}
+{"type":"sentiment","counter":202,"sentiment":"negative"}
+{"type":"sentiment","counter":203,"sentiment":"positive"}
+{"type":"sentiment","counter":204,"sentiment":"negative"}
+{"type":"sentiment","counter":205,"sentiment":"neutral"}
+{"type":"sentiment","counter":206,"sentiment":"neutral"}
+{"type":"sentiment","counter":207,"sentiment":"neutral"}
+{"type":"sentiment","counter":208,"sentiment":"neutral"}
+{"type":"sentiment","counter":209,"sentiment":"positive"}
+{"type":"sentiment","counter":210,"sentiment":"positive"}
+{"type":"sentiment","counter":211,"sentiment":"positive"}
+{"type":"sentiment","counter":212,"sentiment":"neutral"}
+{"type":"sentiment","counter":213,"sentiment":"positive"}
+{"type":"sentiment","counter":214,"sentiment":"positive"}
+{"type":"sentiment","counter":215,"sentiment":"positive"}
+{"type":"sentiment","counter":216,"sentiment":"negative"}
+{"type":"sentiment","counter":217,"sentiment":"positive"}
+{"type":"sentiment","counter":218,"sentiment":"negative"}
+{"type":"sentiment","counter":219,"sentiment":"negative"}
+{"type":"sentiment","counter":220,"sentiment":"positive"}
+{"type":"sentiment","counter":221,"sentiment":"negative"}
+{"type":"sentiment","counter":222,"sentiment":"neutral"}
+{"type":"sentiment","counter":223,"sentiment":"positive"}
+{"type":"sentiment","counter":224,"sentiment":"negative"}
+{"type":"sentiment","counter":225,"sentiment":"negative"}
+{"type":"sentiment","counter":226,"sentiment":"positive"}
+{"type":"sentiment","counter":227,"sentiment":"negative"}
+{"type":"sentiment","counter":228,"sentiment":"negative"}
+{"type":"sentiment","counter":229,"sentiment":"negative"}
+{"type":"sentiment","counter":230,"sentiment":"positive"}
+{"type":"sentiment","counter":231,"sentiment":"positive"}
+{"type":"sentiment","counter":232,"sentiment":"neutral"}
+{"type":"sentiment","counter":233,"sentiment":"positive"}
+{"type":"sentiment","counter":234,"sentiment":"neutral"}
+{"type":"sentiment","counter":235,"sentiment":"negative"}
+{"type":"sentiment","counter":236,"sentiment":"neutral"}
+{"type":"sentiment","counter":237,"sentiment":"neutral"}
+{"type":"sentiment","counter":238,"sentiment":"negative"}
+{"type":"sentiment","counter":239,"sentiment":"positive"}
+{"type":"sentiment","counter":240,"sentiment":"negative"}
+{"type":"sentiment","counter":241,"sentiment":"positive"}
+{"type":"sentiment","counter":242,"sentiment":"neutral"}
+{"type":"sentiment","counter":243,"sentiment":"negative"}
+{"type":"sentiment","counter":244,"sentiment":"positive"}
+{"s":2712.96,"e":2736.44,"p":"54","S":"2","t":"If you think about the solar solar market, which is absolutely huge [indiscernible] You're consuming around about 25 tons of coated product per megawatt And again, we're selling NextTractor and a whole bunch of folks I think we're selling like 300,000 tons a year or thereabouts.","counter":323}
+{"type":"sentiment","counter":245,"sentiment":"positive"}
+{"type":"sentiment","counter":246,"sentiment":"negative"}
+{"type":"sentiment","counter":247,"sentiment":"neutral"}
+{"type":"sentiment","counter":248,"sentiment":"positive"}
+{"s":2736.71,"e":2737.45,"p":"54","S":"2","t":"Even higher.","counter":324}
+{"type":"sentiment","counter":249,"sentiment":"neutral"}
+{"type":"sentiment","counter":250,"sentiment":"positive"}
+{"type":"sentiment","counter":251,"sentiment":"neutral"}
+{"type":"sentiment","counter":252,"sentiment":"negative"}
+{"type":"sentiment","counter":253,"sentiment":"negative"}
+{"type":"sentiment","counter":254,"sentiment":"negative"}
+{"s":2738.68,"e":2739.66,"p":"54","S":"2","t":"Into that marketplace.","counter":325}
+{"type":"sentiment","counter":255,"sentiment":"neutral"}
+{"type":"sentiment","counter":256,"sentiment":"positive"}
+{"type":"sentiment","counter":257,"sentiment":"neutral"}
+{"type":"sentiment","counter":258,"sentiment":"negative"}
+{"type":"sentiment","counter":259,"sentiment":"neutral"}
+{"type":"sentiment","counter":260,"sentiment":"negative"}
+{"type":"sentiment","counter":261,"sentiment":"neutral"}
+{"type":"sentiment","counter":262,"sentiment":"negative"}
+{"type":"sentiment","counter":263,"sentiment":"neutral"}
+{"type":"sentiment","counter":264,"sentiment":"negative"}
+{"type":"sentiment","counter":265,"sentiment":"neutral"}
+{"type":"sentiment","counter":266,"sentiment":"positive"}
+{"s":2740.9,"e":2749.43,"p":"54","S":"2","t":"And that's coated flat roll people turn that into tubes for the support structure of solar.","counter":326}
+{"type":"sentiment","counter":267,"sentiment":"negative"}
+{"type":"sentiment","counter":268,"sentiment":"negative"}
+{"type":"sentiment","counter":269,"sentiment":"neutral"}
+{"type":"sentiment","counter":270,"sentiment":"neutral"}
+{"type":"sentiment","counter":271,"sentiment":"positive"}
+{"type":"sentiment","counter":272,"sentiment":"negative"}
+{"type":"sentiment","counter":273,"sentiment":"neutral"}
+{"type":"sentiment","counter":274,"sentiment":"positive"}
+{"type":"sentiment","counter":275,"sentiment":"positive"}
+{"type":"sentiment","counter":276,"sentiment":"neutral"}
+{"type":"sentiment","counter":277,"sentiment":"neutral"}
+{"type":"sentiment","counter":278,"sentiment":"negative"}
+{"type":"sentiment","counter":279,"sentiment":"negative"}
+{"type":"sentiment","counter":280,"sentiment":"neutral"}
+{"type":"sentiment","counter":281,"sentiment":"neutral"}
+{"type":"sentiment","counter":282,"sentiment":"negative"}
+{"type":"sentiment","counter":283,"sentiment":"positive"}
+{"type":"sentiment","counter":284,"sentiment":"negative"}
+{"type":"sentiment","counter":285,"sentiment":"positive"}
+{"s":2750.06,"e":2756.77,"p":"54","S":"2","t":"There are more and more applications being sold by coated products today.","counter":327}
+{"type":"sentiment","counter":286,"sentiment":"negative"}
+{"type":"sentiment","counter":287,"sentiment":"neutral"}
+{"type":"sentiment","counter":288,"sentiment":"positive"}
+{"type":"sentiment","counter":289,"sentiment":"neutral"}
+{"s":2757.71,"e":2758.85,"p":"54","S":"2","t":"It's a tight market.","counter":328}
+{"type":"sentiment","counter":290,"sentiment":"negative"}
+{"type":"sentiment","counter":291,"sentiment":"positive"}
+{"type":"sentiment","counter":292,"sentiment":"neutral"}
+{"type":"sentiment","counter":293,"sentiment":"neutral"}
+{"type":"sentiment","counter":294,"sentiment":"negative"}
+{"type":"sentiment","counter":295,"sentiment":"neutral"}
+{"type":"sentiment","counter":296,"sentiment":"positive"}
+{"type":"sentiment","counter":297,"sentiment":"negative"}
+{"type":"sentiment","counter":298,"sentiment":"positive"}
+{"type":"sentiment","counter":299,"sentiment":"positive"}
+{"type":"sentiment","counter":300,"sentiment":"negative"}
+{"type":"sentiment","counter":301,"sentiment":"neutral"}
+{"type":"sentiment","counter":302,"sentiment":"negative"}
+{"type":"sentiment","counter":303,"sentiment":"neutral"}
+{"type":"sentiment","counter":304,"sentiment":"neutral"}
+{"type":"sentiment","counter":305,"sentiment":"neutral"}
+{"type":"sentiment","counter":306,"sentiment":"positive"}
+{"type":"sentiment","counter":307,"sentiment":"positive"}
+{"type":"sentiment","counter":308,"sentiment":"positive"}
+{"type":"sentiment","counter":309,"sentiment":"positive"}
+{"type":"sentiment","counter":310,"sentiment":"negative"}
+{"s":2759.27,"e":2762.01,"p":"54","S":"2","t":"And it's supporting that higher spread.","counter":329}
+{"s":2765.45,"e":2771.02,"p":"55","S":"4","t":"Like to add to that Mark too that the teams have been diversified [indiscernible] profile.","counter":330}
+{"type":"sentiment","counter":311,"sentiment":"neutral"}
+{"type":"sentiment","counter":312,"sentiment":"neutral"}
+{"type":"sentiment","counter":313,"sentiment":"negative"}
+{"type":"sentiment","counter":314,"sentiment":"negative"}
+{"type":"sentiment","counter":315,"sentiment":"neutral"}
+{"type":"sentiment","counter":316,"sentiment":"negative"}
+{"type":"sentiment","counter":317,"sentiment":"positive"}
+{"type":"sentiment","counter":318,"sentiment":"positive"}
+{"type":"sentiment","counter":319,"sentiment":"negative"}
+{"type":"sentiment","counter":320,"sentiment":"neutral"}
+{"type":"sentiment","counter":321,"sentiment":"neutral"}
+{"type":"sentiment","counter":322,"sentiment":"neutral"}
+{"type":"sentiment","counter":323,"sentiment":"positive"}
+{"type":"sentiment","counter":324,"sentiment":"neutral"}
+{"type":"sentiment","counter":325,"sentiment":"neutral"}
+{"type":"sentiment","counter":326,"sentiment":"neutral"}
+{"type":"sentiment","counter":327,"sentiment":"negative"}
+{"type":"sentiment","counter":328,"sentiment":"neutral"}
+{"type":"sentiment","counter":329,"sentiment":"positive"}
+{"type":"sentiment","counter":330,"sentiment":"negative"}
+{"s":2771.02,"e":2781.57,"p":"55","S":"4","t":"So We have many different kinds of coatings that we offer and those various product lines provide a very good supply solution to our customers.","counter":331}
+{"type":"sentiment","counter":331,"sentiment":"neutral"}
+{"s":2781.57,"e":2785.27,"p":"55","S":"4","t":"So the whole supply chain has been maturing for these products.","counter":332}
+{"type":"sentiment","counter":332,"sentiment":"neutral"}
+{"s":2785.77,"e":2792.9,"p":"55","S":"4","t":"And it allows us to move our tons to balance our production needs as well as where the markets are interesting.","counter":333}
+{"type":"sentiment","counter":333,"sentiment":"negative"}
+{"s":2793.12,"e":2799.71,"p":"55","S":"4","t":"So we continue to believe that the spreads between coated and hot roll will be attractive.","counter":334}
+{"type":"sentiment","counter":334,"sentiment":"negative"}
+{"s":2799.77,"e":2813.55,"p":"55","S":"4","t":"And it's an area where we've really invested quite a bit of money over the last the last several years to make sure we have the right capabilities at our disposal and the right supply chain solutions for what the customers are asking for.","counter":335}
+{"type":"sentiment","counter":335,"sentiment":"neutral"}
+{"s":2817.53,"e":2831.33,"p":"56","S":"1","t":"Maybe if I could just ask a follow-up on your you've provided some commentary on fabrication Order backlog and then the pricing on that and you indicated it was above pre COVID levels.","counter":336}
+{"s":2832.31,"e":2836.25,"p":"56","S":"1","t":"Maybe if I could just try to get a little bit more color on that.","counter":337}
+{"type":"sentiment","counter":336,"sentiment":"negative"}
+{"type":"sentiment","counter":337,"sentiment":"negative"}
+{"s":2837.54,"e":2860.84,"p":"56","S":"3","t":"Would it be fair to say that pricing in your new bookings and backlog at least are converging to some level and and perhaps ask how that might compare 23 levels Lawson, I don't think that we're talking about comparing to 2023 levels.","counter":338}
+{"type":"sentiment","counter":338,"sentiment":"negative"}
+{"s":2860.84,"e":2880.25,"p":"56","S":"1","t":"I don't know if you were speaking specifically about pricing, if you were speaking about volume, but the pricing that's in the backlog and the current spot pricing that we have, they are converging to your point, which would be Okay.","counter":339}
+{"s":2880.69,"e":2882.05,"p":"56","S":"1","t":"That's exactly what I was looking for.","counter":340}
+{"type":"sentiment","counter":339,"sentiment":"positive"}
+{"type":"sentiment","counter":340,"sentiment":"positive"}
+{"s":2882.05,"e":2882.88,"p":"56","S":"4","t":"Thank you very much.","counter":341}
+{"s":2885.37,"e":2885.93,"p":"57","S":"0","t":"Thank you.","counter":342}
+{"s":2885.93,"e":2890.12,"p":"57","S":"0","t":"Your next question is coming from Tristan Gresser from P&B Paribas.","counter":343}
+{"type":"sentiment","counter":341,"sentiment":"negative"}
+{"type":"sentiment","counter":342,"sentiment":"neutral"}
+{"type":"sentiment","counter":343,"sentiment":"neutral"}
+{"s":2890.35,"e":2891.41,"p":"57","S":"0","t":"Your line is live.","counter":344}
+{"s":2893.41,"e":2893.73,"p":"57","S":"0","t":"Yes.","counter":345}
+{"s":2893.73,"e":2894.05,"p":"57","S":"0","t":"Hi.","counter":346}
+{"s":2894.05,"e":2895.91,"p":"57","S":"0","t":"Thank you for taking my questions.","counter":347}
+{"type":"sentiment","counter":344,"sentiment":"neutral"}
+{"type":"sentiment","counter":345,"sentiment":"positive"}
+{"type":"sentiment","counter":346,"sentiment":"negative"}
+{"type":"sentiment","counter":347,"sentiment":"positive"}
+{"s":2896.7,"e":2899.36,"p":"57","S":"0","t":"Maybe a quick follow-up just on the fab business.","counter":348}
+{"type":"sentiment","counter":348,"sentiment":"neutral"}
+{"s":2900.34,"e":2906.05,"p":"57","S":"6","t":"It was my understanding we should have seen some further moderation in into Q2.","counter":349}
+{"s":2906.67,"e":2910.27,"p":"58","S":"2","t":"You talked about the backlogs stability in forward pricing, etcetera.","counter":350}
+{"type":"sentiment","counter":349,"sentiment":"negative"}
+{"type":"sentiment","counter":350,"sentiment":"negative"}
+{"s":2910.73,"e":2916.62,"p":"58","S":"0","t":"So is this still the base case and that we choose see another leg down in Q2?","counter":351}
+{"type":"sentiment","counter":351,"sentiment":"neutral"}
+{"s":2917.24,"e":2918.22,"p":"58","S":"0","t":"Before we stabilize.","counter":352}
+{"s":2922.01,"e":2923.39,"p":"59","S":"3","t":"Tristan, hi, this is Theresa.","counter":353}
+{"type":"sentiment","counter":352,"sentiment":"negative"}
+{"type":"sentiment","counter":353,"sentiment":"negative"}
+{"s":2923.45,"e":2928.47,"p":"59","S":"3","t":"We're not specifically giving guidance on any of our segments from an earnings perspective.","counter":354}
+{"s":2929.66,"e":2932.22,"p":"59","S":"3","t":"We don't do that, but I'll talk to you about certain levers.","counter":355}
+{"type":"sentiment","counter":354,"sentiment":"positive"}
+{"type":"sentiment","counter":355,"sentiment":"negative"}
+{"s":2932.22,"e":2951.27,"p":"59","S":"3","t":"So we do expect, as Mark said earlier, and you would see this normally, but we will have higher volumes both across fabrication, steel and melt Recycling as we move through the year, which is generally the case in the 2nd, 3rd quarter environment as you move out of the seasonality into stronger demand periods.","counter":356}
+{"type":"sentiment","counter":356,"sentiment":"positive"}
+{"s":2951.27,"e":2953.61,"p":"59","S":"3","t":"So we absolutely expect to see that.","counter":357}
+{"type":"sentiment","counter":357,"sentiment":"negative"}
+{"s":2953.96,"e":2959.96,"p":"59","S":"3","t":"There's also the potential for additional support that we believe will be there as it relates to the public funding.","counter":358}
+{"type":"sentiment","counter":358,"sentiment":"positive"}
+{"s":2960.42,"e":2973.5,"p":"59","S":"3","t":"Probably more specifically in second half of the year and then even more impactful, at least my opinion, in 2025, which will help provide demand fixed asset demand driven increases in volumes.","counter":359}
+{"type":"sentiment","counter":359,"sentiment":"negative"}
+{"s":2974.11,"e":2981.35,"p":"59","S":"3","t":"As it relates to the pricing and fabrication, we said that the the change or the differential in pricing should start to diminish.","counter":360}
+{"type":"sentiment","counter":360,"sentiment":"neutral"}
+{"s":2981.83,"e":2985.85,"p":"59","S":"3","t":"As it's been stabilized really starts stabilizing middle of the 4th quarter.","counter":361}
+{"type":"sentiment","counter":361,"sentiment":"negative"}
+{"s":2986.38,"e":2993.85,"p":"59","S":"3","t":"And certainly, remained so in kind of the January, March, February sorry, January, February, March timeframe.","counter":362}
+{"type":"sentiment","counter":362,"sentiment":"neutral"}
+{"s":2994.4,"e":3001.15,"p":"59","S":"3","t":"So you need to take a view on that price differential that we've kind of just helped explain and then on the steel input costs.","counter":363}
+{"type":"sentiment","counter":363,"sentiment":"negative"}
+{"s":3001.15,"e":3008.44,"p":"60","S":"3","t":"So they keep about 8 weeks Barry, probably about 8 weeks of inventory principally flat rolled on the ground.","counter":364}
+{"type":"sentiment","counter":364,"sentiment":"neutral"}
+{"s":3008.44,"e":3014.54,"p":"60","S":"3","t":"So as that pricing has changed in the first quarter, those input costs will move into the 2nd quarter as well.","counter":365}
+{"s":3016.94,"e":3017.43,"p":"61","S":"6","t":"Okay.","counter":366}
+{"type":"sentiment","counter":365,"sentiment":"neutral"}
+{"type":"sentiment","counter":366,"sentiment":"negative"}
+{"s":3017.51,"e":3019.4,"p":"62","S":"0","t":"No, that's that's really helpful.","counter":367}
+{"type":"sentiment","counter":367,"sentiment":"neutral"}
+{"s":3019.4,"e":3020.22,"p":"62","S":"0","t":"Thank you.","counter":368}
+{"s":3021.25,"e":3025.12,"p":"63","S":"6","t":"And maybe another question on the situation in Mexico.","counter":369}
+{"type":"sentiment","counter":368,"sentiment":"neutral"}
+{"type":"sentiment","counter":369,"sentiment":"negative"}
+{"s":3026.58,"e":3035.43,"p":"64","S":"0","t":"You kind of have a unique perspective there as you sell quite some volumes in the country, you're building in the country, but you're also a U.","counter":370}
+{"s":3035.43,"e":3035.59,"p":"64","S":"0","t":"S.","counter":371}
+{"s":3035.59,"e":3036.63,"p":"64","S":"0","t":"Steel producer first.","counter":372}
+{"type":"sentiment","counter":370,"sentiment":"negative"}
+{"type":"sentiment","counter":371,"sentiment":"negative"}
+{"type":"sentiment","counter":372,"sentiment":"positive"}
+{"s":3036.63,"e":3039.09,"p":"65","S":"0","t":"So I mean the situation, the U.","counter":373}
+{"type":"sentiment","counter":373,"sentiment":"positive"}
+{"s":3039.09,"e":3044.18,"p":"65","S":"0","t":"S, Mexico situation talks of tariffs, retaliation.","counter":374}
+{"type":"sentiment","counter":374,"sentiment":"positive"}
+{"s":3044.8,"e":3049.85,"p":"65","S":"0","t":"So what's your view on the latest development you believe that situation could worsen?","counter":375}
+{"type":"sentiment","counter":375,"sentiment":"positive"}
+{"s":3049.85,"e":3053.23,"p":"65","S":"0","t":"And what's what are kind of your options if it does happen?","counter":376}
+{"type":"sentiment","counter":376,"sentiment":"positive"}
+{"s":3057.26,"e":3070.21,"p":"66","S":"2","t":"Well, today, we haven't seen any don't believe Barry any direct impact to our business We We grew substantial market share in Mexico last year.","counter":377}
+{"type":"sentiment","counter":377,"sentiment":"negative"}
+{"s":3070.21,"e":3074.94,"p":"66","S":"2","t":"We shipped, I think, 600 600,000 tons or so down there.","counter":378}
+{"type":"sentiment","counter":378,"sentiment":"negative"}
+{"s":3076.33,"e":3080.04,"p":"66","S":"2","t":"I think it's more of a wait and see situation.","counter":379}
+{"type":"sentiment","counter":379,"sentiment":"negative"}
+{"s":3081.23,"e":3094.84,"p":"66","S":"2","t":"It's sort of a a tip for tap going back and forth but I think again, Just as you saw with the USMCA some years ago, the The U.","counter":380}
+{"s":3094.84,"e":3095.16,"p":"66","S":"2","t":"S.","counter":381}
+{"type":"sentiment","counter":380,"sentiment":"positive"}
+{"type":"sentiment","counter":381,"sentiment":"negative"}
+{"s":3095.16,"e":3103.09,"p":"66","S":"2","t":"And Mexico are huge trading partners, and these things get All right.","counter":382}
+{"type":"sentiment","counter":382,"sentiment":"negative"}
+{"s":3103.09,"e":3105.79,"p":"66","S":"0","t":"That's That's clear.","counter":383}
+{"type":"sentiment","counter":383,"sentiment":"negative"}
+{"s":3106.43,"e":3115.89,"p":"66","S":"0","t":"And maybe just the last one that you you mentioned in your outlook in your prepared remarks that you expect lower imports Can you discuss that a little bit?","counter":384}
+{"type":"sentiment","counter":384,"sentiment":"positive"}
+{"s":3115.89,"e":3119.54,"p":"66","S":"0","t":"And there's been some discussion at the high level between the U.","counter":385}
+{"s":3119.54,"e":3119.78,"p":"66","S":"0","t":"S.","counter":386}
+{"type":"sentiment","counter":385,"sentiment":"neutral"}
+{"type":"sentiment","counter":386,"sentiment":"positive"}
+{"s":3119.78,"e":3131.66,"p":"66","S":"0","t":"And Europe of potential carbon based tariffs Do you believe that's still on the table and that could potentially materialize depending on who is the next President in the United States.","counter":387}
+{"type":"sentiment","counter":387,"sentiment":"neutral"}
+{"s":3134.27,"e":3142.94,"p":"67","S":"4","t":"Well, I think our position on the carbon border adjustment mechanisms, we don't see any meaningful change in American policy.","counter":388}
+{"type":"sentiment","counter":388,"sentiment":"neutral"}
+{"s":3143.53,"e":3150.31,"p":"67","S":"4","t":"There definitely is a lot of interest in Europe and the EU will continue to go forward with their plans.","counter":389}
+{"type":"sentiment","counter":389,"sentiment":"positive"}
+{"s":3150.61,"e":3158.17,"p":"67","S":"4","t":"After the election, we would expect there will be some kind of a united front to find out how to keep trading with Europe.","counter":390}
+{"type":"sentiment","counter":390,"sentiment":"neutral"}
+{"s":3158.17,"e":3166.75,"p":"67","S":"4","t":"We do believe that's a good thing for us as these develop, particularly with our incredibly low sustainability position.","counter":391}
+{"type":"sentiment","counter":391,"sentiment":"negative"}
+{"s":3166.97,"e":3171.79,"p":"67","S":"4","t":"So we have a great position lead into these kind of tariffs.","counter":392}
+{"type":"sentiment","counter":392,"sentiment":"positive"}
+{"s":3172.73,"e":3177.08,"p":"67","S":"4","t":"We do see certain coated products moving into the country that are concerning.","counter":393}
+{"type":"sentiment","counter":393,"sentiment":"neutral"}
+{"s":3177.7,"e":3204.42,"p":"67","S":"4","t":"And as we address those through our downstream distribution and our customer base, we are aware of where certain products are moving in the country and we do see certain areas where it's Elevated in we're doing our best to respond to that competitive challenge as other economies flush towards us when they get soft where they are.","counter":394}
+{"type":"sentiment","counter":394,"sentiment":"positive"}
+{"s":3204.42,"e":3206.41,"p":"67","S":"4","t":"So we're always monitoring it.","counter":395}
+{"s":3206.41,"e":3208.03,"p":"67","S":"4","t":"There are solutions we'll look at.","counter":396}
+{"type":"sentiment","counter":395,"sentiment":"negative"}
+{"type":"sentiment","counter":396,"sentiment":"positive"}
+{"s":3208.36,"e":3212.1,"p":"67","S":"6","t":"But we take that on a day by day basis.","counter":397}
+{"s":3216.15,"e":3216.55,"p":"67","S":"6","t":"All right.","counter":398}
+{"type":"sentiment","counter":397,"sentiment":"positive"}
+{"type":"sentiment","counter":398,"sentiment":"positive"}
+{"s":3216.55,"e":3217.29,"p":"67","S":"6","t":"Thank you.","counter":399}
+{"s":3218.93,"e":3219.41,"p":"68","S":"0","t":"Thank you.","counter":400}
+{"type":"sentiment","counter":399,"sentiment":"positive"}
+{"type":"sentiment","counter":400,"sentiment":"neutral"}
+{"s":3219.41,"e":3222.9,"p":"68","S":"0","t":"Your next question is coming from Bill Peterson from JPMorgan.","counter":401}
+{"type":"sentiment","counter":401,"sentiment":"neutral"}
+{"s":3223.38,"e":3224.44,"p":"68","S":"0","t":"Your line is live.","counter":402}
+{"s":3226.07,"e":3226.31,"p":"69","S":"6","t":"Yes.","counter":403}
+{"s":3226.31,"e":3226.71,"p":"69","S":"6","t":"Hi.","counter":404}
+{"type":"sentiment","counter":402,"sentiment":"positive"}
+{"type":"sentiment","counter":403,"sentiment":"neutral"}
+{"type":"sentiment","counter":404,"sentiment":"neutral"}
+{"s":3226.71,"e":3229.05,"p":"69","S":"6","t":"Good morning and nice job on the quarterly execution.","counter":405}
+{"s":3229.92,"e":3235.49,"p":"70","S":"7","t":"I wanted to talk about some of the reshoring trends, but and also the data center build outs.","counter":406}
+{"type":"sentiment","counter":405,"sentiment":"neutral"}
+{"type":"sentiment","counter":406,"sentiment":"positive"}
+{"s":3235.49,"e":3243.34,"p":"70","S":"7","t":"We've obviously seen a big uptick in data center, but on the same side, we've seen obviously warehouses continue to kind of remain negative.","counter":407}
+{"type":"sentiment","counter":407,"sentiment":"negative"}
+{"s":3243.34,"e":3255.41,"p":"70","S":"7","t":"So I guess the question is, what is the typical steel intensity you see of data centers and how does that opportunity compare to a warehouse opportunity again since that's kind of normalized year recently?","counter":408}
+{"s":3257.49,"e":3258.45,"p":"71","S":"4","t":"Bill, this is Barry.","counter":409}
+{"type":"sentiment","counter":408,"sentiment":"neutral"}
+{"type":"sentiment","counter":409,"sentiment":"neutral"}
+{"s":3258.45,"e":3261.71,"p":"71","S":"4","t":"I think each project is so different.","counter":410}
+{"type":"sentiment","counter":410,"sentiment":"positive"}
+{"s":3261.71,"e":3262.85,"p":"71","S":"4","t":"There's a lot of variables.","counter":411}
+{"s":3263.46,"e":3268.38,"p":"71","S":"4","t":"And we provide materials to all these different types of projects.","counter":412}
+{"type":"sentiment","counter":411,"sentiment":"neutral"}
+{"type":"sentiment","counter":412,"sentiment":"positive"}
+{"s":3268.38,"e":3276.36,"p":"71","S":"4","t":"So depending on what the owner is looking for, where the data center might be located, that will affect the steel intensity.","counter":413}
+{"type":"sentiment","counter":413,"sentiment":"neutral"}
+{"s":3276.82,"e":3282.36,"p":"71","S":"4","t":"But generally, the packages aren't wildly different than warehousing.","counter":414}
+{"type":"sentiment","counter":414,"sentiment":"positive"}
+{"s":3283.86,"e":3287.93,"p":"71","S":"4","t":"And it really depends on where they're going to go and who's designing it.","counter":415}
+{"type":"sentiment","counter":415,"sentiment":"negative"}
+{"s":3287.93,"e":3300.34,"p":"71","S":"4","t":"So that flexibility in providing the way we look at lots of different general contractors and lots of different engineering firms, we have solutions for each of them.","counter":416}
+{"type":"sentiment","counter":416,"sentiment":"negative"}
+{"s":3300.34,"e":3308.84,"p":"71","S":"4","t":"So as they go, it might be a maybe think of it maybe it's less steel intensive job, but it might have more design work involved.","counter":417}
+{"type":"sentiment","counter":417,"sentiment":"neutral"}
+{"s":3308.84,"e":3314.42,"p":"71","S":"4","t":"And the opposite may be true where it's a straightforward design work in bigger tons.","counter":418}
+{"type":"sentiment","counter":418,"sentiment":"positive"}
+{"s":3314.89,"e":3319.06,"p":"71","S":"4","t":"So it's really a broad spectrum across these different projects.","counter":419}
+{"type":"sentiment","counter":419,"sentiment":"negative"}
+{"s":3319.52,"e":3323,"p":"71","S":"4","t":"So depending on each one, it's really hard to say.","counter":420}
+{"type":"sentiment","counter":420,"sentiment":"positive"}
+{"s":3323,"e":3342.52,"p":"71","S":"4","t":"But it is definitely an area where there continues to be interest because of the artificial intelligence, all the thoughts about what's going to be needed for that cloud computing and so we remain very interested in there, trying to provide good solutions to the various stakeholders who are building those facilities.","counter":421}
+{"s":3344.08,"e":3344.4,"p":"72","S":"7","t":"Okay.","counter":422}
+{"type":"sentiment","counter":421,"sentiment":"negative"}
+{"type":"sentiment","counter":422,"sentiment":"negative"}
+{"s":3344.4,"e":3346.5,"p":"72","S":"7","t":"So I guess it just really depends on the project.","counter":423}
+{"s":3347.2,"e":3349.76,"p":"72","S":"7","t":"If I can ask a second question maybe to Teresa.","counter":424}
+{"type":"sentiment","counter":423,"sentiment":"negative"}
+{"type":"sentiment","counter":424,"sentiment":"negative"}
+{"s":3349.76,"e":3352.02,"p":"72","S":"7","t":"So CapEx came in a bit lower than expected.","counter":425}
+{"type":"sentiment","counter":425,"sentiment":"negative"}
+{"s":3352.41,"e":3356.51,"p":"72","S":"7","t":"But I guess how should we think about the cadence of CapEx through the remainder of the year?","counter":426}
+{"type":"sentiment","counter":426,"sentiment":"negative"}
+{"s":3357.26,"e":3360.61,"p":"72","S":"7","t":"Presumably to reach the $2,000,000,000 number you provided in the past?","counter":427}
+{"s":3362.5,"e":3363.56,"p":"73","S":"3","t":"Yes, good morning.","counter":428}
+{"type":"sentiment","counter":427,"sentiment":"positive"}
+{"type":"sentiment","counter":428,"sentiment":"neutral"}
+{"s":3364.18,"e":3379.58,"p":"73","S":"3","t":"The biggest chunk of capital will relate to obviously the aluminum investments and we would expect to see those tick up in the 2nd Q3 as equipment continues to arrive and they hit certain milestones.","counter":429}
+{"type":"sentiment","counter":429,"sentiment":"negative"}
+{"s":3379.8,"e":3391.86,"p":"73","S":"3","t":"So you should see the bulk of that additional CapEx or remaining CapEx be in the the 2nd and the 3rd quarter, probably about equal and then probably go down to about the same level you saw in the first quarter and the 4th quarter.","counter":430}
+{"s":3393.7,"e":3394.2,"p":"74","S":"7","t":"Okay.","counter":431}
+{"s":3394.66,"e":3395.8,"p":"74","S":"7","t":"Thanks, Josh, Lisa.","counter":432}
+{"type":"sentiment","counter":430,"sentiment":"positive"}
+{"type":"sentiment","counter":431,"sentiment":"negative"}
+{"type":"sentiment","counter":432,"sentiment":"negative"}
+{"s":3396.46,"e":3397.12,"p":"75","S":"3","t":"You're welcome.","counter":433}
+{"s":3399.34,"e":3399.9,"p":"76","S":"0","t":"Thank you.","counter":434}
+{"type":"sentiment","counter":433,"sentiment":"positive"}
+{"type":"sentiment","counter":434,"sentiment":"neutral"}
+{"s":3399.9,"e":3404.85,"p":"76","S":"0","t":"Your next question is coming from John Tumazos from John Tumazos Very Independent Research.","counter":435}
+{"type":"sentiment","counter":435,"sentiment":"positive"}
+{"s":3404.93,"e":3405.96,"p":"76","S":"0","t":"Your line is live.","counter":436}
+{"s":3407.16,"e":3407.82,"p":"77","S":"6","t":"Thank you.","counter":437}
+{"type":"sentiment","counter":436,"sentiment":"neutral"}
+{"type":"sentiment","counter":437,"sentiment":"neutral"}
+{"s":3408.45,"e":3422.8,"p":"77","S":"7","t":"[indiscernible] I see that you're not staggering the 3 aluminum slab melt shops with 1 or 2 of them to follow.","counter":438}
+{"type":"sentiment","counter":438,"sentiment":"neutral"}
+{"s":3427.39,"e":3442.66,"p":"78","S":"5","t":"Does that mean that you have a lot of customers pent up already for the aluminum [indiscernible] and that you're concerned that you need the raw material because it might sell out fast.","counter":439}
+{"type":"sentiment","counter":439,"sentiment":"positive"}
+{"s":3443.58,"e":3448.95,"p":"78","S":"7","t":"[indiscernible] is Mexico's slab mill getting sequenced first?","counter":440}
+{"type":"sentiment","counter":440,"sentiment":"negative"}
+{"s":3450.16,"e":3463.98,"p":"78","S":"7","t":"Because your scrap collection is very advanced in Mexico And is there a concern that it might take a little longer to develop the scrap flow in Arizona and Mississippi?","counter":441}
+{"type":"sentiment","counter":441,"sentiment":"positive"}
+{"s":3467.72,"e":3477.88,"p":"79","S":"2","t":"Well, I wish it was all absolute strategic, but some of it is just luck or bad luck John.","counter":442}
+{"type":"sentiment","counter":442,"sentiment":"positive"}
+{"s":3479.06,"e":3487.78,"p":"79","S":"2","t":"But firstly, the satellite mills will or slab plants will be [indiscernible] focused on UBC.","counter":443}
+{"type":"sentiment","counter":443,"sentiment":"positive"}
+{"s":3488.91,"e":3499.62,"p":"79","S":"2","t":"So the Columbus Mill itself [indiscernible] We'll have to produce the 5,006 1,000 automotive stuff and some of the industrial stuff.","counter":444}
+{"type":"sentiment","counter":444,"sentiment":"positive"}
+{"s":3501.08,"e":3506.26,"p":"79","S":"2","t":"So the Columbus Mail Shop, at least 1 or 2 the furnaces will come up reasonably early.","counter":445}
+{"type":"sentiment","counter":445,"sentiment":"positive"}
+{"s":3508.3,"e":3519.32,"p":"79","S":"2","t":"We're focused on SLP or the Maxim facility to be honest because That one the property [indiscernible] was purchased first.","counter":446}
+{"s":3519.62,"e":3520.74,"p":"79","S":"2","t":"Everything went incredibly well.","counter":447}
+{"type":"sentiment","counter":446,"sentiment":"negative"}
+{"type":"sentiment","counter":447,"sentiment":"positive"}
+{"s":3520.74,"e":3522.4,"p":"79","S":"2","t":"The permitting went incredibly well.","counter":448}
+{"type":"sentiment","counter":448,"sentiment":"negative"}
+{"s":3522.77,"e":3534.09,"p":"79","S":"2","t":"And it's just in line Our property in Arizona, to be honest, had some initial permitting I would say slowdown.","counter":449}
+{"type":"sentiment","counter":449,"sentiment":"neutral"}
+{"s":3534.15,"e":3543.19,"p":"79","S":"2","t":"I mean, there's just a bureaucracy delayed that facility by several months.","counter":450}
+{"type":"sentiment","counter":450,"sentiment":"positive"}
+{"s":3546.37,"e":3548.39,"p":"80","S":"7","t":"So it's better to be lucky than smart.","counter":451}
+{"type":"sentiment","counter":451,"sentiment":"neutral"}
+{"s":3548.45,"e":3555.09,"p":"80","S":"2","t":"I've been I won't tell you that the language my dad used sometime ago.","counter":452}
+{"type":"sentiment","counter":452,"sentiment":"negative"}
+{"s":3556.29,"e":3562.27,"p":"80","S":"2","t":"But he called me a lucky critter, let's just put it that way.","counter":453}
+{"s":3562.51,"e":3566.48,"p":"80","S":"2","t":"And I've been lucky all my life and you need luck in life.","counter":454}
+{"type":"sentiment","counter":453,"sentiment":"negative"}
+{"type":"sentiment","counter":454,"sentiment":"negative"}
+{"s":3566.48,"e":3571.12,"p":"80","S":"2","t":"[indiscernible] and the biggest luck I have is being surrounded by a phenomenal team, to be honest.","counter":455}
+{"type":"sentiment","counter":455,"sentiment":"positive"}
+{"s":3573.3,"e":3574.45,"p":"81","S":"7","t":"Thank you very much.","counter":456}
+{"s":3575.29,"e":3576.09,"p":"82","S":"2","t":"Thanks, John.","counter":457}
+{"type":"sentiment","counter":456,"sentiment":"negative"}
+{"type":"sentiment","counter":457,"sentiment":"negative"}
+{"s":3576.09,"e":3577.71,"p":"82","S":"2","t":"Thanks for your support as always.","counter":458}
+{"s":3579.37,"e":3579.85,"p":"83","S":"0","t":"Thank you.","counter":459}
+{"type":"sentiment","counter":458,"sentiment":"negative"}
+{"type":"sentiment","counter":459,"sentiment":"neutral"}
+{"s":3579.85,"e":3581.95,"p":"83","S":"0","t":"That concludes our question and answer session.","counter":460}
+{"s":3582.1,"e":3583.7,"p":"83","S":"0","t":"I'd like to turn the call back over to Mr.","counter":461}
+{"type":"sentiment","counter":460,"sentiment":"positive"}
+{"type":"sentiment","counter":461,"sentiment":"positive"}
+{"s":3583.7,"e":3585.64,"p":"83","S":"0","t":"Millett for any closing remarks.","counter":462}
+{"s":3587.07,"e":3587.39,"p":"84","S":"2","t":"Super.","counter":463}
+{"s":3587.39,"e":3588.11,"p":"84","S":"2","t":"Thank you, Matthew.","counter":464}
+{"type":"sentiment","counter":462,"sentiment":"neutral"}
+{"type":"sentiment","counter":463,"sentiment":"neutral"}
+{"type":"sentiment","counter":464,"sentiment":"positive"}
+{"s":3588.11,"e":3626.81,"p":"84","S":"2","t":"And thus, thank you for those that remain on the call and even greater thanks for those that support us and our shareholders For us, hopefully, we've we've articulated that we have a very, very constructive near term on the markets the start up at Centen and other sort of growth opportunities, [indiscernible] I think what makes us even even more excited to be honest is just our long term competitive position We are the one of the most efficient lowest cost producers in the world.","counter":465}
+{"type":"sentiment","counter":465,"sentiment":"positive"}
+{"s":3627.29,"e":3637.23,"p":"84","S":"2","t":"We have a very balanced I think, product portfolio and a very balanced kind of circular manufacturing profile.","counter":466}
+{"type":"sentiment","counter":466,"sentiment":"positive"}
+{"s":3637.79,"e":3643.33,"p":"84","S":"2","t":"We got a lot of pull through volume from our downstream, from fabrication and from our conversion plants.","counter":467}
+{"type":"sentiment","counter":467,"sentiment":"positive"}
+{"s":3644.21,"e":3647.88,"p":"84","S":"2","t":"So and that amounts to about 2,000,000 tons a year today.","counter":468}
+{"type":"sentiment","counter":468,"sentiment":"neutral"}
+{"s":3648.36,"e":3659.78,"p":"84","S":"2","t":"So the pull through volume is is very, very strong, allows us for that higher and more uniform cash generation through cycle.","counter":469}
+{"type":"sentiment","counter":469,"sentiment":"positive"}
+{"s":3660.7,"e":3667.07,"p":"84","S":"2","t":"I think Larry said, we were at 87 percent utilization when the industry is at 77%.","counter":470}
+{"type":"sentiment","counter":470,"sentiment":"negative"}
+{"s":3667.37,"e":3671.15,"p":"84","S":"2","t":"And that's been historical norm for us.","counter":471}
+{"type":"sentiment","counter":471,"sentiment":"negative"}
+{"s":3671.76,"e":3683.97,"p":"84","S":"2","t":"[indiscernible] [indiscernible] our position in From a sustainability carbon footprint, [indiscernible] is a huge, huge advantage.","counter":472}
+{"type":"sentiment","counter":472,"sentiment":"negative"}
+{"s":3684.03,"e":3688.51,"p":"84","S":"2","t":"And I I don't don't believe everyone understands it.","counter":473}
+{"type":"sentiment","counter":473,"sentiment":"neutral"}
+{"s":3689.07,"e":3708.76,"p":"85","S":"2","t":"Our flat roll mills are reportedly not us reporting it, but our automotive European automotive manufacturers are suggesting that that our 2 current mills, Butler and Columbus likely the lowest common footprint of any sheet producers in the world.","counter":474}
+{"type":"sentiment","counter":474,"sentiment":"negative"}
+{"s":3709.16,"e":3711.82,"p":"85","S":"2","t":"And Texas is going to be somewhat similar.","counter":475}
+{"type":"sentiment","counter":475,"sentiment":"negative"}
+{"s":3712.77,"e":3718.93,"p":"85","S":"2","t":"That's allowing us to gain huge market traction certainly in automotive.","counter":476}
+{"type":"sentiment","counter":476,"sentiment":"neutral"}
+{"s":3719.73,"e":3726.38,"p":"85","S":"2","t":"We actually have more more interest than we can support today.","counter":477}
+{"type":"sentiment","counter":477,"sentiment":"negative"}
+{"s":3727.86,"e":3728.76,"p":"85","S":"2","t":"In that arena.","counter":478}
+{"type":"sentiment","counter":478,"sentiment":"positive"}
+{"s":3729.4,"e":3739.64,"p":"85","S":"2","t":"And if you look at the fact that we're already here, [indiscernible] the rest of the world is spending 1,000,000,000 and 1,000,000,000 of dollars to get to where we are.","counter":479}
+{"type":"sentiment","counter":479,"sentiment":"positive"}
+{"s":3740.52,"e":3756.79,"p":"85","S":"2","t":"And recent discussions with a couple of different European companies would suggest to us that just their conversion from blast furnace to to electronic furnace in the DRI facilities.","counter":480}
+{"type":"sentiment","counter":480,"sentiment":"positive"}
+{"s":3757.48,"e":3763.26,"p":"85","S":"2","t":"It's likely going to increase the conversion cost by $200,000,000 $2.50 a ton.","counter":481}
+{"type":"sentiment","counter":481,"sentiment":"positive"}
+{"s":3763.96,"e":3772.66,"p":"85","S":"2","t":"And if you think about where that puts us on the global cost curve, we will be absolutely at the very bottom.","counter":482}
+{"type":"sentiment","counter":482,"sentiment":"neutral"}
+{"s":3772.82,"e":3796.78,"p":"85","S":"2","t":"That's a very envious position to be But most importantly, long term we would suggest that it supports much higher through cycle spreads We've seen it in recent years that going to continue Our earnings are going to be positively impacted by incredibly excited for SDI going forward.","counter":483}
+{"type":"sentiment","counter":483,"sentiment":"positive"}
+{"s":3797.17,"e":3806.25,"p":"85","S":"2","t":"[indiscernible] For those again employees on the call, thank you each and every one of you for everything you do each and every day.","counter":484}
+{"type":"sentiment","counter":484,"sentiment":"positive"}
+{"s":3807.05,"e":3810.44,"p":"86","S":"2","t":"We can't be here doing what we do without you.","counter":485}
+{"type":"sentiment","counter":485,"sentiment":"negative"}
+{"s":3810.84,"e":3828.96,"p":"86","S":"2","t":"And you all put in a tremendous quarter and truly truly sort of punctuated the positive combination of culture, and technology and creating the best financial metrics of any steel company, I think in the world.","counter":486}
+{"type":"sentiment","counter":486,"sentiment":"neutral"}
+{"s":3829.36,"e":3837.37,"p":"86","S":"2","t":"Thanks to our customers, again, we can't do it without you and our service providers And everyone else, just thank you for your support.","counter":487}
+{"type":"sentiment","counter":487,"sentiment":"positive"}
+{"s":3837.74,"e":3838.93,"p":"86","S":"7","t":"Have a great day.","counter":488}
+{"type":"sentiment","counter":488,"sentiment":"positive"}
+{"s":3840.45,"e":3843.14,"p":"86","S":"0","t":"Once again, ladies and gentlemen, that concludes today's call.","counter":489}
+{"type":"sentiment","counter":489,"sentiment":"positive"}

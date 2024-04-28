@@ -1,0 +1,122 @@
+.eventsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 24px;
+    @media  screen and (max-width:800px) {
+        justify-content: center;
+    }
+
+}
+
+.eventItem {
+    flex: 1;
+    max-width: 315px;
+    /*width: 315px;*/
+    /*max-width: min(315px, 33.3%);*/
+    /*flex-basis: 33.33%;*/
+    border: 1px solid #E4E5E7;
+
+    @apply rounded-xl flex flex-row p-4
+}
+
+.imageContainer {
+    height: 81px;
+    width: 81px;
+    flex-shrink: 0;
+    background-color: #F2F2F3;
+    @apply flex items-center justify-center rounded-md;
+}
+
+.companyTicker {
+    color: #AFAFB6;
+    @apply text-xs font-semibold;
+}
+
+.eventType {
+    color: #3F3F46;
+    @apply flex font-normal text-sm justify-between
+}
+
+
+/* Pagination Container */
+.paginationContainer {
+    height: 33px;
+    margin-top: 20px;
+    font-size: 14px;
+    gap: 3px;
+    @apply flex items-center justify-center
+}
+
+
+.page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 32px;
+    width: 32px;
+    @apply rounded-md
+}
+
+.page:hover {
+    background-color: #F2F2F3;
+    cursor: pointer;
+}
+
+.pageLink {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.active {
+    background-color: #F2F2F3;
+}
+
+
+.previous {
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #3F3F46;
+    height: 32px;
+    width: 32px;
+    @apply rounded-md
+}
+
+.previousLink {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.next {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #3F3F46;
+    height: 32px;
+    width: 32px;
+    @apply rounded-md
+}
+
+.nextLink {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
